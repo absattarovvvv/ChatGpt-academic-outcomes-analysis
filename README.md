@@ -1,4 +1,4 @@
-# Analyzing the ChatGPT Effect: Academic Outcomes Before and After LLM Introduction
+# Analyzing the ChatGPT effect: academic outcomes before and after LLM introduction
 
 ## Overview
 
