@@ -95,10 +95,12 @@ Given the descriptive nature of the study, findings should be interpreted as obs
 
 ## Repository Structure
 
+```text
 .
 ├── LLM_Impact.ipynb     # Full analytical workflow, EDA, and visualizations
 └── data/
     └── raw/             # Anonymized, pre-processing datasets used in the analysis
+```
 
 All data wrangling, aggregation, and analysis steps are documented and executed within the notebook.
 
