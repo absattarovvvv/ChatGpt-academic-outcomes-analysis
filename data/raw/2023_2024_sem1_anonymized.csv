@@ -1,0 +1,663 @@
+Code,Subject,Dept,Level,A,B,C,D,FX,F,Pass,Not Pass,IP,W,Total,%,Gender,Semester,Year,teacher_id
+ACC 207,Principles of Accounting,BS,0,3,15,35,12,4,17,0,0,0,6,92,3.3%   16.3%   38%   13%   22.8%,1,1,2023,61
+ACC 207,Principles of Accounting,BS,0,32,31,22,28,4,27,0,0,0,7,151,21.2%   20.5%   14.6%   18.5%   20.5%,1,1,2023,62
+ACC 302,Audit and Assurance (ACCA),BS,0,0,13,25,9,0,4,0,0,0,0,51,0%   25.5%   49%   17.6%   7.8%,1,1,2023,539
+ACC 302,Audit and Assurance (ACCA),BS,0,19,18,32,15,5,9,0,0,0,0,98,19.4%   18.4%   32.7%   15.3%   14.3%,0,1,2023,498
+ACC 303,Taxation (ACCA),BS,0,23,30,36,34,0,9,0,0,0,2,134,17.2%   22.4%   26.9%   25.4%   6.7%,1,1,2023,499
+ACC 403,Financial Statement Analysis (ACCA),BS,0,14,32,44,25,0,6,0,0,0,0,121,11.6%   26.4%   36.4%   20.7%   5%,1,1,2023,539
+ACC 407,Enterprise Resource Planning,BS,0,23,44,12,12,0,6,0,0,0,0,97,23.7%   45.4%   12.4%   12.4%   6.2%,1,1,2023,540
+ACC 407,Enterprise Resource Planning,BS,0,20,28,7,0,0,3,0,0,0,0,58,34.5%   48.3%   12.1%   0%   5.2%,0,1,2023,338
+ACC 407,Enterprise Resource Planning,BS,1,19,18,8,3,0,3,0,0,0,0,51,37.3%   35.3%   15.7%   5.9%   5.9%,0,1,2023,49
+CSS 105,Fundamentals of Programming,ENG,0,18,19,18,10,4,10,0,0,0,0,79,22.8%   24.1%   22.8%   12.7%   17.7%,0,1,2023,414
+CSS 105,Fundamentals of Programming,ENG,0,38,71,116,54,27,29,0,0,0,3,338,11.2%   21%   34.3%   16%   16.6%,0,1,2023,381
+CSS 105,Fundamentals of Programming,ENG,0,14,33,29,26,8,17,0,0,0,0,127,11%   26%   22.8%   20.5%   19.7%,1,1,2023,25
+CSS 105,Fundamentals of Programming,ENG,0,8,16,17,15,2,5,0,0,0,1,64,12.5%   25%   26.6%   23.4%   10.9%,1,1,2023,380
+CSS 108,Programming Technologies and Educational Practice,ENG,0,0,1,5,10,2,14,0,0,0,3,35,0%   2.9%   14.3%   28.6%   45.7%,0,1,2023,541
+CSS 109,Calculus 1,ENG,1,25,31,24,24,14,18,0,0,0,0,136,18.4%   22.8%   17.6%   17.6%   23.5%,1,1,2023,172
+CSS 109,Calculus 1,ENG,0,5,8,21,13,6,6,0,0,0,0,59,8.5%   13.6%   35.6%   22%   20.3%,1,1,2023,259
+CSS 112,Physics 1,ENG,0,6,18,10,0,1,0,0,0,0,0,35,17.1%   51.4%   28.6%   0%   2.9%,0,1,2023,368
+CSS 206,Database Management Systems 1,ENG,0,14,20,23,23,21,21,0,0,0,1,123,11.4%   16.3%   18.7%   18.7%   34.1%,1,1,2023,542
+CSS 206,Database Management Systems 1,ENG,0,5,24,16,7,1,7,0,0,0,0,60,8.3%   40%   26.7%   11.7%   13.3%,1,1,2023,73
+CSS 214,Introduction to iOS Programming,ENG,0,5,8,6,4,2,7,0,0,0,1,33,15.2%   24.2%   18.2%   12.1%   27.3%,0,1,2023,543
+CSS 214,Introduction to iOS Programming,ENG,0,28,9,6,3,0,17,0,0,0,1,64,43.8%   14.1%   9.4%   4.7%   26.6%,0,1,2023,327
+CSS 215,Introduction to Algorithms,ENG,1,15,32,21,27,24,27,0,0,0,4,150,10%   21.3%   14%   18%   34%,0,1,2023,544
+CSS 215,Introduction to Algorithms,ENG,1,120,129,65,0,3,27,0,0,0,12,356,33.7%   36.2%   18.3%   0%   8.4%,0,1,2023,545
+CSS 216,Mobile Programming,ENG,0,25,23,11,7,6,11,0,0,0,0,83,30.1%   27.7%   13.3%   8.4%   20.5%,0,1,2023,384
+CSS 220,Advanced Algorithms,ENG,0,109,74,14,4,0,3,0,0,0,0,204,53.4%   36.3%   6.9%   2%   1.5%,0,1,2023,7
+CSS 223,C# Object Oriented Programming,ENG,0,27,29,8,4,2,5,0,0,0,0,75,36%   38.7%   10.7%   5.3%   9.3%,1,1,2023,546
+CSS 250,Electronics,ENG,0,0,8,11,7,0,2,0,0,0,3,31,0%   25.8%   35.5%   22.6%   6.5%,1,1,2023,386
+CSS 251,Physics 2,ENG,0,3,8,10,6,1,2,0,0,0,1,31,9.7%   25.8%   32.3%   19.4%   9.7%,1,1,2023,6
+CSS 280,Industrial practice 1,ENG,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,20
+CSS 303,Foundations of Information and Cyber Security,ENG,0,14,8,2,0,0,2,0,0,0,0,26,53.8%   30.8%   7.7%   0%   7.7%,0,1,2023,547
+CSS 312,Computer Networks 1,ENG,0,1,8,3,12,7,33,0,0,0,6,70,1.4%   11.4%   4.3%   17.1%   57.1%,0,1,2023,409
+CSS 324,Introduction to Machine Learning,ENG,0,24,23,13,8,3,9,0,0,0,5,85,28.2%   27.1%   15.3%   9.4%   14.1%,0,1,2023,3
+CSS 327,Introduction to Android Programming,ENG,0,18,8,8,7,0,4,0,0,0,1,46,39.1%   17.4%   17.4%   15.2%   8.7%,0,1,2023,548
+CSS 328,Introduction to Data Analysis,ENG,1,67,53,27,14,1,20,0,0,0,1,183,36.6%   29%   14.8%   7.7%   11.5%,1,1,2023,30
+CSS 332,Full-stack project development,ENG,0,40,14,4,8,0,1,0,0,0,0,67,59.7%   20.9%   6%   11.9%   1.5%,0,1,2023,417
+CSS 341,Computer organization and architecture,ENG,1,49,33,41,11,0,11,0,0,0,2,147,33.3%   22.4%   27.9%   7.5%   7.5%,0,1,2023,14
+CSS 346,FPGA Programming,ENG,1,7,7,6,1,0,5,0,0,0,0,26,26.9%   26.9%   23.1%   3.8%   19.2%,1,1,2023,18
+CSS 356,Introduction to IoT,ENG,0,1,7,3,6,1,10,0,0,0,1,29,3.4%   24.1%   10.3%   20.7%   37.9%,0,1,2023,31
+CSS 382,Industrial practice 1,ENG,0,2,0,0,0,0,0,0,0,0,0,2,100%   0%   0%   0%   0%,1,1,2023,549
+CSS 399,Applied AI,ENG,0,11,0,6,2,0,1,0,0,0,0,20,55%   0%   30%   10%   5%,0,1,2023,3
+CSS 410,Research tools and methods,ENG,1,19,17,14,15,0,23,0,0,0,0,88,21.6%   19.3%   15.9%   17%   26.1%,1,1,2023,18
+CSS 410,Research tools and methods,ENG,1,13,40,16,10,0,15,0,0,0,0,94,13.8%   42.6%   17%   10.6%   16%,1,1,2023,17
+CSS 410,Research tools and methods,ENG,1,10,31,3,1,0,5,0,0,0,0,50,20%   62%   6%   2%   10%,1,1,2023,500
+CSS 410,Research tools and methods,ENG,0,26,15,6,0,0,3,0,0,0,0,50,52%   30%   12%   0%   6%,1,1,2023,419
+CSS 410,Research tools and methods,ENG,0,10,13,3,3,0,10,0,0,0,0,39,25.6%   33.3%   7.7%   7.7%   25.6%,1,1,2023,87
+CSS 410,Research tools and methods,ENG,1,23,30,31,8,1,5,0,0,0,0,98,23.5%   30.6%   31.6%   8.2%   6.1%,1,1,2023,24
+CSS 410,Research tools and methods,ENG,0,3,2,14,9,7,20,0,0,0,2,57,5.3%   3.5%   24.6%   15.8%   47.4%,0,1,2023,31
+CSS 410,Research tools and methods,ENG,1,11,4,5,0,1,1,0,0,0,0,22,50%   18.2%   22.7%   0%   9.1%,0,1,2023,36
+CSS 410,Research tools and methods,ENG,1,32,0,0,0,0,0,0,0,0,0,32,100%   0%   0%   0%   0%,0,1,2023,23
+CSS 410,Research tools and methods,ENG,1,0,5,0,0,0,0,0,0,0,0,5,0%   100%   0%   0%   0%,1,1,2023,12
+CSS 410,Research tools and methods,ENG,0,7,0,0,0,0,0,0,0,0,0,7,100%   0%   0%   0%   0%,0,1,2023,368
+CSS 421,Computer Vision,ENG,0,12,32,2,4,1,3,0,0,0,0,54,22.2%   59.3%   3.7%   7.4%   7.4%,0,1,2023,550
+CSS 423,Applied Artificial Intelligence,ENG,1,17,21,1,0,0,5,0,0,0,0,44,38.6%   47.7%   2.3%   0%   11.4%,0,1,2023,38
+CSS 434,Business analytics,ENG,0,8,18,24,10,1,4,0,0,0,0,65,12.3%   27.7%   36.9%   15.4%   7.7%,1,1,2023,551
+CSS 446,IT audit,ENG,0,16,60,27,4,0,7,0,0,0,0,114,14%   52.6%   23.7%   3.5%   6.1%,0,1,2023,331
+CSS 450,Industrial project (Introduction) all,ENG,0,74,35,9,6,2,4,0,0,0,0,130,56.9%   26.9%   6.9%   4.6%   4.6%,0,1,2023,414
+CSS 450,Industrial project (Introduction) all,ENG,0,19,5,0,0,0,0,0,0,0,0,24,79.2%   20.8%   0%   0%   0%,1,1,2023,549
+CSS 463,Internship 3,ENG,0,3,0,0,0,0,2,0,0,0,0,5,60%   0%   0%   0%   40%,1,1,2023,549
+CSS 465,Project Management,ENG,0,5,10,8,14,2,5,0,0,0,0,44,11.4%   22.7%   18.2%   31.8%   15.9%,1,1,2023,20
+CSS 465,Project Management,ENG,0,55,15,6,1,0,2,0,0,0,0,79,69.6%   19%   7.6%   1.3%   2.5%,0,1,2023,26
+CSS 480,Industrial practice 3,ENG,0,380,10,2,0,0,28,0,0,0,0,420,90.5%   2.4%   0.5%   0%   6.7%,0,1,2023,414
+CSS 480,Industrial practice 3,ENG,0,82,10,0,0,0,4,0,0,0,0,96,85.4%   10.4%   0%   0%   4.2%,1,1,2023,549
+CSS 493,Diploma defence,ENG,1,0,12,4,0,0,0,0,0,0,0,16,0%   75%   25%   0%   0%,0,1,2023,85
+ECO 103,Mathematics for Economics,BS,0,6,11,5,12,9,14,0,0,0,3,60,10%   18.3%   8.3%   20%   38.3%,0,1,2023,42
+ECO 103,Mathematics for Economics,BS,0,25,18,8,20,0,12,0,0,0,8,91,27.5%   19.8%   8.8%   22%   13.2%,0,1,2023,41
+ECO 103,Mathematics for Economics,BS,0,4,10,12,13,7,15,0,0,0,2,63,6.3%   15.9%   19%   20.6%   34.9%,0,1,2023,410
+ECO 103,Mathematics for Economics,BS,0,28,28,11,11,3,7,0,0,0,1,89,31.5%   31.5%   12.4%   12.4%   11.2%,0,1,2023,552
+ECO 113,Economic Theory,BS,1,18,46,33,27,9,16,0,0,0,2,151,11.9%   30.5%   21.9%   17.9%   16.6%,1,1,2023,44
+ECO 113,Economic Theory,BS,0,22,51,29,6,4,9,0,0,0,0,121,18.2%   42.1%   24%   5%   10.7%,1,1,2023,399
+ECO 203,Statistics - I,BS,0,12,12,24,15,1,11,0,0,0,1,76,15.8%   15.8%   31.6%   19.7%   15.8%,1,1,2023,400
+ECO 203,Statistics - I,BS,0,16,17,10,19,0,10,0,0,0,0,72,22.2%   23.6%   13.9%   26.4%   13.9%,0,1,2023,552
+ECO 203,Statistics - I,BS,0,14,22,18,9,4,8,0,0,0,0,75,18.7%   29.3%   24%   12%   16%,1,1,2023,53
+ECO 204,Public Finance,BS,0,1,4,2,2,0,0,0,0,0,0,9,11.1%   44.4%   22.2%   22.2%   0%,1,1,2023,497
+ECO 205,Microeconomics (CFA),BS,0,4,26,17,12,2,6,0,0,0,0,67,6%   38.8%   25.4%   17.9%   11.9%,1,1,2023,50
+ECO 215,Microeconomics CIMA,BS,0,7,23,19,19,18,19,0,0,0,1,106,6.6%   21.7%   17.9%   17.9%   34.9%,1,1,2023,398
+ECO 215,Microeconomics CIMA,BS,0,3,11,14,14,2,6,0,0,0,0,50,6%   22%   28%   28%   16%,1,1,2023,50
+ECO 303,International Economics,BS,1,1,4,2,2,0,0,0,0,0,0,9,11.1%   44.4%   22.2%   22.2%   0%,1,1,2023,146
+ECO 315,Introduction to Python,BS,0,14,35,34,25,5,20,0,0,0,2,135,10.4%   25.9%   25.2%   18.5%   18.5%,1,1,2023,55
+ECO 315,Introduction to Python,BS,0,24,30,37,23,8,6,0,0,0,1,129,18.6%   23.3%   28.7%   17.8%   10.9%,0,1,2023,54
+ECO 323,Economic History,BS,0,3,3,2,2,0,0,0,0,0,0,10,30%   30%   20%   20%   0%,0,1,2023,366
+ECO 407,Environmental Economics,BS,0,8,2,0,0,0,0,0,0,0,0,10,80%   20%   0%   0%   0%,0,1,2023,366
+ECO 415,Business Career I,BS,0,11,0,0,0,0,0,0,0,0,0,11,100%   0%   0%   0%   0%,1,1,2023,148
+ECO 495,Final Attestation,BS,0,0,2,3,1,0,2,0,0,0,0,8,0%   25%   37.5%   12.5%   25%,1,1,2023,57
+FFA 222,Fundamentals of Linguistics,PED,0,95,107,57,21,28,28,0,0,0,11,347,27.4%   30.8%   16.4%   6.1%   16.1%,1,1,2023,553
+FFA 323,Fundamentals of editing,PED,0,5,7,7,2,0,2,0,0,0,1,24,20.8%   29.2%   29.2%   8.3%   8.3%,1,1,2023,287
+FFA 432,Thesis defense,PED,0,0,0,1,0,0,0,0,0,0,0,1,0%   0%   100%   0%   0%,1,1,2023,533
+FFA 434,Professional Practicum,PED,0,0,1,0,0,0,0,0,0,0,0,1,0%   100%   0%   0%   0%,1,1,2023,533
+FFA 436,Pre-graduation practicum / Internship,PED,0,0,1,0,0,0,0,0,0,0,0,1,0%   100%   0%   0%   0%,1,1,2023,533
+FFA 438,Diploma writing and defence,PED,0,0,0,1,0,0,0,0,0,0,0,1,0%   0%   100%   0%   0%,1,1,2023,533
+FIN 303,Fundamentals of Financial Management,BS,1,10,37,35,16,0,9,0,0,0,1,108,9.3%   34.3%   32.4%   14.8%   8.3%,1,1,2023,401
+FIN 303,Fundamentals of Financial Management,BS,0,1,13,16,12,3,8,0,0,0,1,54,1.9%   24.1%   29.6%   22.2%   20.4%,1,1,2023,61
+FIN 303,Fundamentals of Financial Management,BS,0,13,19,31,35,7,13,0,0,0,2,120,10.8%   15.8%   25.8%   29.2%   16.7%,1,1,2023,405
+FIN 307,Cost Accounting (ACCA),BS,0,14,21,37,36,10,35,0,0,0,4,157,8.9%   13.4%   23.6%   22.9%   28.7%,1,1,2023,554
+FIN 307,Cost Accounting (ACCA),BS,0,6,19,8,12,3,4,0,0,0,1,53,11.3%   35.8%   15.1%   22.6%   13.2%,1,1,2023,65
+FIN 308,Portfolio Management (CFA),BS,0,25,11,18,24,0,12,0,0,0,1,91,27.5%   12.1%   19.8%   26.4%   13.2%,0,1,2023,63
+FIN 317,Fixed Income Securities (CFA),BS,0,18,18,12,11,0,2,0,0,0,0,61,29.5%   29.5%   19.7%   18%   3.3%,0,1,2023,63
+FIN 401,Labor economics,BS,0,5,2,3,0,0,0,0,0,0,0,10,50%   20%   30%   0%   0%,1,1,2023,399
+FIN 402,1 C Accounting,BS,1,9,10,15,7,0,4,0,0,0,0,45,20%   22.2%   33.3%   15.6%   8.9%,1,1,2023,1
+FIN 405,Financial Management (ACCA),BS,0,58,86,7,2,0,5,0,0,0,0,158,36.7%   54.4%   4.4%   1.3%   3.2%,0,1,2023,555
+FPH 201,Highlights of Western Literature,PED,0,19,32,39,27,20,14,0,0,0,3,154,12.3%   20.8%   25.3%   17.5%   22.1%,0,1,2023,67
+HPE 105,Ancient and medieval history of Kazakhstan,PED,0,10,26,16,0,0,0,0,0,0,0,52,19.2%   50%   30.8%   0%   0%,0,1,2023,218
+HPE 113,Educational practice,PED,1,52,0,0,0,0,0,0,0,0,0,52,100%   0%   0%   0%   0%,1,1,2023,556
+HPE 119,Pedagogy,PED,1,9,29,8,0,0,0,0,0,0,0,46,19.6%   63%   17.4%   0%   0%,1,1,2023,556
+HPE 209,The new history of Kazakhstan,PED,0,6,9,1,0,0,0,0,0,0,0,16,37.5%   56.3%   6.3%   0%   0%,0,1,2023,218
+HPE 210,New and modern history of the countries of Europe and America,PED,0,9,6,1,0,0,0,0,0,0,0,16,56.3%   37.5%   6.3%   0%   0%,1,1,2023,507
+HPE 211,Medieval history of Asia and Africa,PED,0,9,6,1,0,0,0,0,0,0,0,16,56.3%   37.5%   6.3%   0%   0%,1,1,2023,507
+HPE 212,Historical stages of the jadit enlightenment in Turkestan,PED,0,2,7,3,0,0,0,0,0,0,0,12,16.7%   58.3%   25%   0%   0%,0,1,2023,218
+HPE 213,History of medieval Europe,PED,0,5,9,2,0,0,0,0,0,0,0,16,31.3%   56.3%   12.5%   0%   0%,0,1,2023,218
+HPE 217,Professional oriented foreign language,PED,0,6,10,0,0,0,0,0,0,0,0,16,37.5%   62.5%   0%   0%   0%,0,1,2023,557
+HPE 301,Archives and museums,PED,0,2,7,3,0,0,0,0,0,0,0,12,16.7%   58.3%   25%   0%   0%,1,1,2023,507
+HPE 303,Archives and museums (educational practice),PED,0,6,6,0,0,0,0,0,0,0,0,12,50%   50%   0%   0%   0%,1,1,2023,507
+HPE 315,Social structure of Kazakh society,PED,1,3,3,5,0,0,1,0,0,0,0,12,25%   25%   41.7%   0%   8.3%,1,1,2023,68
+HPE 319,Methods of teaching history based update education,PED,0,3,5,4,0,0,0,0,0,0,0,12,25%   41.7%   33.3%   0%   0%,0,1,2023,558
+HPE 322,20th-21st century international global problems,PED,0,5,6,1,0,0,0,0,0,0,0,12,41.7%   50%   8.3%   0%   0%,1,1,2023,507
+INF 106,Information and Communication Technologies,ENG,0,25,91,51,21,5,12,0,0,0,0,205,12.2%   44.4%   24.9%   10.2%   8.3%,1,1,2023,386
+INF 106,Information and Communication Technologies,ENG,0,45,163,120,34,9,23,0,0,0,1,395,11.4%   41.3%   30.4%   8.6%   8.1%,0,1,2023,409
+INF 201,"Software Architecture, Quality, Verification, Validation and Design",ENG,0,100,128,42,24,0,44,0,0,0,2,340,29.4%   37.6%   12.4%   7.1%   12.9%,0,1,2023,76
+INF 202,Database Management Systems 1,ENG,0,82,107,84,38,4,58,0,0,0,2,375,21.9%   28.5%   22.4%   10.1%   16.5%,0,1,2023,16
+INF 228,UX/UI design,ENG,0,24,24,19,10,0,7,0,0,0,0,84,28.6%   28.6%   22.6%   11.9%   8.3%,1,1,2023,235
+INF 228,UX/UI design,ENG,0,8,9,1,3,1,1,0,0,0,0,23,34.8%   39.1%   4.3%   13%   8.7%,0,1,2023,559
+INF 231,Web programming: front end,ENG,0,3,24,19,23,7,11,0,0,0,1,88,3.4%   27.3%   21.6%   26.1%   20.5%,0,1,2023,385
+INF 263,Applied Graph Theory,ENG,0,0,1,4,2,1,6,0,0,0,0,14,0%   7.1%   28.6%   14.3%   50%,1,1,2023,163
+INF 305,Database Management Systems 2,ENG,0,11,13,6,9,0,5,0,0,0,0,44,25%   29.5%   13.6%   20.5%   11.4%,1,1,2023,542
+INF 314,Computer networks 2,ENG,0,2,5,1,1,0,3,0,0,0,1,13,15.4%   38.5%   7.7%   7.7%   23.1%,1,1,2023,75
+INF 318,Introduction to Testing,ENG,0,0,4,15,14,4,6,0,0,0,0,43,0%   9.3%   34.9%   32.6%   23.3%,0,1,2023,416
+INF 318,Introduction to Testing,ENG,0,1,4,14,8,6,9,0,0,0,1,43,2.3%   9.3%   32.6%   18.6%   34.9%,0,1,2023,509
+INF 321,Machine Learning,ENG,0,71,0,0,0,0,21,0,0,0,0,92,77.2%   0%   0%   0%   22.8%,0,1,2023,3
+INF 322,Graphic Design,ENG,0,44,20,6,4,0,5,0,0,0,1,80,55%   25%   7.5%   5%   6.3%,1,1,2023,87
+INF 323,Data analysis,ENG,0,33,29,4,6,0,9,0,0,0,2,83,39.8%   34.9%   4.8%   7.2%   10.8%,0,1,2023,16
+INF 324,Computer vision,ENG,0,13,11,14,25,0,0,0,0,0,0,63,20.6%   17.5%   22.2%   39.7%   0%,0,1,2023,510
+INF 325,Enterpreneurship in information systems,ENG,0,13,30,11,2,1,7,0,0,0,1,65,20%   46.2%   16.9%   3.1%   12.3%,0,1,2023,9
+INF 326,Numerical Methods for Computer Science,ENG,1,2,1,3,2,0,8,0,0,0,1,17,11.8%   5.9%   17.6%   11.8%   47.1%,0,1,2023,170
+INF 328,3D modeling,ENG,0,13,27,20,5,2,16,0,0,0,6,89,14.6%   30.3%   22.5%   5.6%   20.2%,0,1,2023,83
+INF 328,3D modeling,ENG,0,6,6,2,2,0,0,0,0,0,0,16,37.5%   37.5%   12.5%   12.5%   0%,1,1,2023,419
+INF 330,Information storage management and virtualization,ENG,0,8,17,7,5,1,13,0,0,0,0,51,15.7%   33.3%   13.7%   9.8%   27.5%,0,1,2023,10
+INF 338,Linux Administration,ENG,0,3,16,21,11,2,20,0,0,0,1,74,4.1%   21.6%   28.4%   14.9%   29.7%,0,1,2023,420
+INF 344,IT security and Risk Management,ENG,1,9,67,19,10,1,2,0,0,0,0,108,8.3%   62%   17.6%   9.3%   2.8%,1,1,2023,560
+INF 345,Fundamentals of DevOps,ENG,0,5,27,35,12,5,12,0,0,0,1,97,5.2%   27.8%   36.1%   12.4%   17.5%,0,1,2023,420
+INF 356,Game Development 1,ENG,0,15,15,14,4,2,8,0,0,0,0,58,25.9%   25.9%   24.1%   6.9%   17.2%,0,1,2023,28
+INF 360,IT-law,ENG,0,24,26,3,0,0,6,0,0,0,0,59,40.7%   44.1%   5.1%   0%   10.2%,0,1,2023,561
+INF 360,IT-law,ENG,0,1,4,4,8,0,1,0,0,0,0,18,5.6%   22.2%   22.2%   44.4%   5.6%,1,1,2023,562
+INF 365,Fundamentals of Finance,ENG,0,32,18,6,0,0,0,0,0,0,0,56,57.1%   32.1%   10.7%   0%   0%,0,1,2023,563
+INF 370,User Interface Design,ENG,0,19,56,6,1,0,2,0,0,0,4,88,21.6%   63.6%   6.8%   1.1%   2.3%,1,1,2023,235
+INF 376,Natural Language Processing,ENG,0,1,1,2,2,1,15,0,0,0,0,22,4.5%   4.5%   9.1%   9.1%   72.7%,0,1,2023,22
+INF 384,Game Design,ENG,1,3,23,16,3,1,8,0,0,0,0,54,5.6%   42.6%   29.6%   5.6%   16.7%,1,1,2023,350
+INF 387,Communication Management,ENG,0,42,35,5,1,0,1,0,0,0,0,84,50%   41.7%   6%   1.2%   1.2%,1,1,2023,564
+INF 405,Personal Development in Computer Science,ENG,0,45,10,1,1,0,0,0,0,0,0,57,78.9%   17.5%   1.8%   1.8%   0%,0,1,2023,84
+INF 405,Personal Development in Computer Science,ENG,0,20,7,1,1,0,3,0,0,0,0,32,62.5%   21.9%   3.1%   3.1%   9.4%,1,1,2023,511
+INF 405,Personal Development in Computer Science,ENG,0,5,21,1,0,0,0,0,0,0,0,27,18.5%   77.8%   3.7%   0%   0%,0,1,2023,368
+INF 406,Data Ethics & Applied Analytics,ENG,0,3,17,28,25,8,16,0,0,0,1,98,3.1%   17.3%   28.6%   25.5%   24.5%,0,1,2023,423
+INF 415,Leadership in IT,ENG,0,5,47,45,9,3,6,0,0,0,0,115,4.3%   40.9%   39.1%   7.8%   7.8%,1,1,2023,20
+INF 417,Linux Administration 2,ENG,0,0,0,4,5,3,10,0,0,0,0,22,0%   0%   18.2%   22.7%   59.1%,0,1,2023,420
+INF 419,Industrial practice 2,ENG,0,1,0,0,0,0,0,0,0,0,0,1,100%   0%   0%   0%   0%,1,1,2023,20
+INF 421,Security in Computer Networks,ENG,0,2,5,5,3,3,27,0,0,0,1,46,4.3%   10.9%   10.9%   6.5%   65.2%,1,1,2023,75
+INF 425,Wireless networks,ENG,0,0,4,1,4,4,9,0,0,0,0,22,0%   18.2%   4.5%   18.2%   59.1%,1,1,2023,71
+INF 425,Wireless networks,ENG,0,0,0,5,4,0,10,0,0,0,2,21,0%   0%   23.8%   19%   47.6%,0,1,2023,422
+INF 426,IT Asset Management,ENG,0,51,10,2,2,0,3,0,0,0,0,68,75%   14.7%   2.9%   2.9%   4.4%,0,1,2023,565
+INF 431,Accounting Information Systems,ENG,0,32,25,7,0,0,0,0,0,0,0,64,50%   39.1%   10.9%   0%   0%,0,1,2023,563
+INF 433,ICT in Agriculture,ENG,1,5,19,18,8,0,1,0,0,0,0,51,9.8%   37.3%   35.3%   15.7%   2%,0,1,2023,424
+INF 440,Digital Image Processing,ENG,1,5,58,2,1,0,2,0,0,0,0,68,7.4%   85.3%   2.9%   1.5%   2.9%,0,1,2023,38
+INF 448,Big Data Analytics,ENG,0,6,8,8,9,0,16,0,0,0,0,47,12.8%   17%   17%   19.1%   34%,0,1,2023,423
+INF 484,Defense of Graduation Thesis (Computer Science),ENG,1,0,1,0,2,0,0,0,0,0,0,3,0%   33.3%   0%   66.7%   0%,0,1,2023,500
+IRN 105,Introduction to International Relations,LAW,0,12,20,17,7,18,7,0,0,0,3,84,14.3%   23.8%   20.2%   8.3%   29.8%,1,1,2023,566
+IRN 115,Introduction to Political Philosophy,LAW,1,62,13,0,0,0,1,0,0,0,0,76,81.6%   17.1%   0%   0%   1.3%,0,1,2023,93
+IRN 128,Human Rights,LAW,1,67,8,0,0,0,1,0,0,0,0,76,88.2%   10.5%   0%   0%   1.3%,0,1,2023,93
+IRN 205,Foreign Policy Analysis,LAW,0,16,6,8,11,1,1,0,0,0,0,43,37.2%   14%   18.6%   25.6%   4.7%,1,1,2023,512
+IRN 209,International Relations Theories,LAW,1,20,13,15,13,2,2,0,0,0,2,67,29.9%   19.4%   22.4%   19.4%   6%,0,1,2023,567
+IRN 211,Diplomatic and Consular Services,LAW,0,22,16,11,11,1,2,0,0,0,0,63,34.9%   25.4%   17.5%   17.5%   4.8%,1,1,2023,512
+IRN 216,International Conflicts and Peace,LAW,1,4,8,6,14,1,2,0,0,0,0,35,11.4%   22.9%   17.1%   40%   8.6%,0,1,2023,427
+IRN 216,International Conflicts and Peace,LAW,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,512
+IRN 219,Introduction to Comparative Politics,LAW,1,14,13,9,9,15,7,0,0,0,0,67,20.9%   19.4%   13.4%   13.4%   32.8%,0,1,2023,98
+IRN 220,Contemporary history of International Relations,LAW,0,7,14,16,13,9,8,0,0,0,1,68,10.3%   20.6%   23.5%   19.1%   25%,1,1,2023,568
+IRN 320,Foreign Policy of Kazakhstan,LAW,1,5,11,16,18,6,4,0,0,0,0,60,8.3%   18.3%   26.7%   30%   16.7%,0,1,2023,427
+IRN 325,Foreign Language of Specialization - I (French European),LAW,1,13,19,0,0,0,2,0,0,0,1,35,37.1%   54.3%   0%   0%   5.7%,1,1,2023,569
+IRN 328,Research Methods,LAW,1,16,14,22,10,3,3,0,0,0,2,70,22.9%   20%   31.4%   14.3%   8.6%,0,1,2023,425
+IRN 329,Foreign Language of Specialization - I (Asia Chineese),LAW,0,14,10,1,0,0,0,0,0,0,0,25,56%   40%   4%   0%   0%,0,1,2023,100
+IRN 340,Emerging China and World affairs,LAW,1,10,7,4,10,2,6,0,0,0,0,39,25.6%   17.9%   10.3%   25.6%   20.5%,1,1,2023,92
+IRN 340,Emerging China and World affairs,LAW,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,512
+IRN 346,Contemporary system of international relations,LAW,0,11,15,16,5,8,2,0,0,0,0,57,19.3%   26.3%   28.1%   8.8%   17.5%,1,1,2023,568
+IRN 348,Techniques of Conducting Diplomatic Negotiations,LAW,1,11,14,11,9,10,7,0,0,0,0,62,17.7%   22.6%   17.7%   14.5%   27.4%,0,1,2023,98
+IRN 355,International Security,LAW,1,16,8,6,6,0,0,0,0,0,0,36,44.4%   22.2%   16.7%   16.7%   0%,0,1,2023,567
+IRN 355,International Security,LAW,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,512
+IRN 404,Foreign Language of Specialization (Asia Chineese),LAW,0,9,6,2,0,0,1,0,0,0,0,18,50%   33.3%   11.1%   0%   5.6%,0,1,2023,100
+IRN 404,Foreign Language of Specialization (Asia Chineese),LAW,0,1,0,0,0,0,0,0,0,0,0,1,100%   0%   0%   0%   0%,1,1,2023,512
+IRN 445,Foreign Language of Specialization (French European),LAW,1,7,11,0,0,0,1,0,0,0,0,19,36.8%   57.9%   0%   0%   5.3%,1,1,2023,569
+IRN 445,Foreign Language of Specialization (French European),LAW,0,2,0,0,0,0,0,0,0,0,0,2,100%   0%   0%   0%   0%,1,1,2023,512
+IRN 468,Contemporary Issues in International Relations,LAW,1,14,4,11,4,4,1,0,0,0,0,38,36.8%   10.5%   28.9%   10.5%   13.2%,1,1,2023,330
+IRN 468,Contemporary Issues in International Relations,LAW,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,512
+IRN 493,Internship,LAW,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,512
+IRN 495,State examination in major,LAW,0,0,0,1,4,0,0,0,0,0,0,5,0%   0%   20%   80%   0%,1,1,2023,512
+IRN 498,Pre-research/Field internship,LAW,0,1,0,0,0,0,2,0,0,0,0,3,33.3%   0%   0%   0%   66.7%,1,1,2023,512
+JUR 101,Introduction to Journalism,LAW,0,5,6,3,1,0,0,0,0,0,0,15,33.3%   40%   20%   6.7%   0%,1,1,2023,570
+JUR 101,Introduction to Journalism,LAW,0,8,13,5,3,0,0,0,0,0,0,29,27.6%   44.8%   17.2%   10.3%   0%,1,1,2023,571
+JUR 117,Writing fundamentals,LAW,0,7,22,4,0,0,2,0,0,0,0,35,20%   62.9%   11.4%   0%   5.7%,0,1,2023,572
+JUR 117,Writing fundamentals,LAW,0,6,5,2,3,0,0,0,0,0,0,16,37.5%   31.3%   12.5%   18.8%   0%,1,1,2023,570
+JUR 135,Photojournalism,LAW,0,37,6,4,2,0,3,0,0,0,0,52,71.2%   11.5%   7.7%   3.8%   5.8%,0,1,2023,102
+JUR 227,Mediadesign,LAW,0,15,21,4,3,1,4,0,0,0,0,48,31.3%   43.8%   8.3%   6.3%   10.4%,0,1,2023,573
+JUR 241,Language and style of mass media,LAW,0,12,20,8,3,1,5,0,0,0,0,49,24.5%   40.8%   16.3%   6.1%   12.2%,1,1,2023,103
+JUR 250,Internship,LAW,0,36,1,1,0,0,6,0,0,0,1,45,80%   2.2%   2.2%   0%   13.3%,1,1,2023,570
+JUR 262,News literacy,LAW,0,1,24,14,4,0,2,0,0,0,0,45,2.2%   53.3%   31.1%   8.9%   4.4%,0,1,2023,107
+JUR 264,Journalism law,LAW,0,25,10,6,1,2,3,0,0,0,0,47,53.2%   21.3%   12.8%   2.1%   10.6%,1,1,2023,103
+JUR 341,Media management,LAW,0,4,13,7,6,0,4,0,0,0,0,34,11.8%   38.2%   20.6%   17.6%   11.8%,0,1,2023,109
+JUR 360,Video journalism,LAW,0,9,18,11,8,0,0,0,0,0,0,46,19.6%   39.1%   23.9%   17.4%   0%,1,1,2023,574
+JUR 362,Audio Journalism,LAW,0,5,16,12,6,3,3,0,0,0,0,45,11.1%   35.6%   26.7%   13.3%   13.3%,0,1,2023,105
+JUR 373,Journalism ethics,LAW,0,6,15,9,11,1,1,0,0,0,0,43,14%   34.9%   20.9%   25.6%   4.7%,1,1,2023,106
+JUR 378,Video editing techniques,LAW,0,14,15,9,7,0,1,0,0,0,0,46,30.4%   32.6%   19.6%   15.2%   2.2%,1,1,2023,574
+JUR 401,Data journalism,LAW,0,5,16,12,8,3,1,0,0,0,1,46,10.9%   34.8%   26.1%   17.4%   8.7%,0,1,2023,107
+JUR 404,Media and Politics,LAW,0,2,8,2,1,1,1,0,0,0,0,15,13.3%   53.3%   13.3%   6.7%   13.3%,1,1,2023,566
+JUR 404,Media and Politics,LAW,0,1,16,1,0,0,1,0,0,0,0,19,5.3%   84.2%   5.3%   0%   5.3%,0,1,2023,572
+JUR 418,Research methods,LAW,1,2,3,5,0,2,1,0,0,0,0,13,15.4%   23.1%   38.5%   0%   23.1%,0,1,2023,425
+JUR 418,Research methods,LAW,0,16,1,1,0,0,0,0,0,0,0,18,88.9%   5.6%   5.6%   0%   0%,0,1,2023,572
+JUR 420,Media and Economics,LAW,1,12,12,0,3,0,7,0,0,0,0,34,35.3%   35.3%   0%   8.8%   20.6%,1,1,2023,428
+JUR 436,Writing and defense of Thesis,LAW,0,0,1,0,0,0,0,0,0,0,0,1,0%   100%   0%   0%   0%,1,1,2023,574
+JUR 438,Comprehensive exam,LAW,0,0,1,1,1,0,0,0,0,0,0,3,0%   33.3%   33.3%   33.3%   0%,1,1,2023,574
+JUR 447,Content Marketing,LAW,0,5,6,12,5,0,5,0,0,0,0,33,15.2%   18.2%   36.4%   15.2%   15.2%,1,1,2023,333
+JUR 449,Writing and defense of Thesis,LAW,0,0,0,0,1,0,0,0,0,0,0,1,0%   0%   0%   100%   0%,1,1,2023,574
+JUR 451,Pregraduation internship,LAW,0,0,0,0,1,0,0,0,0,0,0,1,0%   0%   0%   100%   0%,1,1,2023,574
+JUR 465,Industrial Project (Introduction) all,LAW,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,0,1,2023,105
+JUR 471,Internship,LAW,0,12,1,0,0,0,1,0,0,0,0,14,85.7%   7.1%   0%   0%   7.1%,1,1,2023,570
+JUR 471,Internship,LAW,0,19,0,0,0,0,2,0,0,0,0,21,90.5%   0%   0%   0%   9.5%,1,1,2023,571
+JUR 477,Journalism thesis and diploma project writing,LAW,0,3,1,0,0,0,0,0,0,0,0,4,75%   25%   0%   0%   0%,1,1,2023,574
+JUR 478,Industrial project (Development),LAW,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,0,1,2023,105
+KZL 125,Phonetics and orthography of modern Kazakh language,PED,1,16,28,12,4,0,2,0,0,0,0,62,25.8%   45.2%   19.4%   6.5%   3.2%,1,1,2023,114
+KZL 129,Introduction to Literature,PED,1,36,24,21,0,0,1,0,0,0,0,82,43.9%   29.3%   25.6%   0%   1.2%,0,1,2023,117
+KZL 204,Historical grammar of the Kazakh language,PED,0,12,15,1,0,0,0,0,0,0,0,28,42.9%   53.6%   3.6%   0%   0%,1,1,2023,429
+KZL 205,Lexicology and phraseology of modern Kazakh language,PED,1,11,26,28,5,0,1,0,0,0,0,71,15.5%   36.6%   39.4%   7%   1.4%,1,1,2023,120
+KZL 239,Ancient literature,PED,0,32,34,4,0,0,1,0,0,0,1,72,44.4%   47.2%   5.6%   0%   1.4%,1,1,2023,575
+KZL 320,Digital technologies in education,PED,1,7,11,7,3,0,0,0,0,0,0,28,25%   39.3%   25%   10.7%   0%,1,1,2023,112
+KZL 334,Theory of Literature,PED,1,8,14,4,0,1,0,0,0,0,0,27,29.6%   51.9%   14.8%   0%   3.7%,0,1,2023,117
+KZL 339,Culture of speech and teacher's speaking skills,PED,1,4,17,8,2,0,0,0,0,0,0,31,12.9%   54.8%   25.8%   6.5%   0%,1,1,2023,377
+KZL 343,Kazakh literature of the XIX century,PED,1,9,16,4,0,0,0,0,0,0,0,29,31%   55.2%   13.8%   0%   0%,0,1,2023,117
+KZL 349,Theory and Methods of Educational Work,PED,1,8,11,8,0,0,0,0,0,0,0,27,29.6%   40.7%   29.6%   0%   0%,1,1,2023,119
+KZL 351,Educational practice (Theory and Methods of Educational Work),PED,1,10,11,6,0,0,0,0,0,0,0,27,37%   40.7%   22.2%   0%   0%,1,1,2023,119
+KZL 423,Text linguistics and discourse,PED,1,1,1,4,4,0,0,0,0,0,0,10,10%   10%   40%   40%   0%,1,1,2023,120
+KZL 429,Criteria-based assessment technology,PED,1,3,4,4,0,0,0,0,0,0,0,11,27.3%   36.4%   36.4%   0%   0%,1,1,2023,111
+KZL 430,Defense of the thesis,PED,1,0,0,1,0,0,0,0,0,0,0,1,0%   0%   100%   0%   0%,1,1,2023,112
+KZL 431,Methods of Teaching the Kazakh Language,PED,1,5,5,1,0,0,0,0,0,0,0,11,45.5%   45.5%   9.1%   0%   0%,1,1,2023,119
+KZL 433,Educational practice (Methods of Teaching the Kazakh Language),PED,1,7,4,1,0,0,0,0,0,0,0,12,58.3%   33.3%   8.3%   0%   0%,1,1,2023,119
+KZL 437,Methods of Teaching Kazakh Literature,PED,1,3,4,3,0,0,0,0,0,0,0,10,30%   40%   30%   0%   0%,1,1,2023,118
+KZL 439,Educational practice (Methods of Teaching Kazakh Literature),PED,1,3,4,4,0,0,0,0,0,0,0,11,27.3%   36.4%   36.4%   0%   0%,1,1,2023,118
+KZL 443,Teacher's professional orientation and work with gifted children,PED,1,2,5,4,0,0,0,0,0,0,0,11,18.2%   45.5%   36.4%   0%   0%,1,1,2023,118
+KZP 244,Professional oriented foreign language,PED,0,22,22,21,4,0,1,0,0,0,0,70,31.4%   31.4%   30%   5.7%   1.4%,0,1,2023,576
+KZP 406,Pre-graduation practicum,PED,1,0,0,1,0,0,0,0,0,0,0,1,0%   0%   100%   0%   0%,1,1,2023,112
+KZP 437,Modern Kazakh literature,PED,1,1,6,2,3,0,0,0,0,0,0,12,8.3%   50%   16.7%   25%   0%,1,1,2023,116
+LAW 121,Fundamentals of civil law,LAW,1,24,13,19,3,0,4,0,0,0,0,63,38.1%   20.6%   30.2%   4.8%   6.3%,0,1,2023,124
+LAW 121,Fundamentals of civil law,LAW,0,3,0,0,3,2,1,0,0,0,0,9,33.3%   0%   0%   33.3%   33.3%,0,1,2023,140
+LAW 127,Introduction to law,LAW,0,6,16,14,22,4,4,0,0,0,1,67,9%   23.9%   20.9%   32.8%   11.9%,0,1,2023,126
+LAW 127,Introduction to law,LAW,0,4,3,4,1,0,2,0,0,0,0,14,28.6%   21.4%   28.6%   7.1%   14.3%,0,1,2023,577
+LAW 127,Introduction to law,LAW,1,0,1,13,0,0,1,0,0,0,0,15,0%   6.7%   86.7%   0%   6.7%,0,1,2023,131
+LAW 128,Legal thinking and methodology,LAW,1,3,27,12,26,0,4,0,0,0,0,72,4.2%   37.5%   16.7%   36.1%   5.6%,0,1,2023,353
+LAW 128,Legal thinking and methodology,LAW,1,2,7,7,6,0,1,0,0,0,0,23,8.7%   30.4%   30.4%   26.1%   4.3%,1,1,2023,431
+LAW 131,Theory of public administration,LAW,0,4,8,9,2,0,0,0,0,0,0,23,17.4%   34.8%   39.1%   8.7%   0%,0,1,2023,127
+LAW 140,Innovative Trends,LAW,0,9,11,15,18,0,4,0,0,0,0,57,15.8%   19.3%   26.3%   31.6%   7%,0,1,2023,467
+LAW 140,Innovative Trends,LAW,0,6,5,8,2,0,3,0,0,0,0,24,25%   20.8%   33.3%   8.3%   12.5%,1,1,2023,435
+LAW 140,Innovative Trends,LAW,0,2,0,0,0,0,0,0,0,0,0,2,100%   0%   0%   0%   0%,1,1,2023,432
+LAW 205,Criminal Law of the Republic of Kazakhstan (general part)-I,LAW,0,5,11,7,3,0,5,0,0,0,0,31,16.1%   35.5%   22.6%   9.7%   16.1%,0,1,2023,433
+LAW 205,Criminal Law of the Republic of Kazakhstan (general part)-I,LAW,1,13,12,2,4,0,5,0,0,0,0,36,36.1%   33.3%   5.6%   11.1%   13.9%,1,1,2023,311
+LAW 270,Educational practice,LAW,1,3,18,9,19,5,7,0,0,0,1,62,4.8%   29%   14.5%   30.6%   19.4%,0,1,2023,353
+LAW 271,Law of Obligation 1,LAW,1,2,10,6,13,0,5,0,0,0,1,37,5.4%   27%   16.2%   35.1%   13.5%,0,1,2023,353
+LAW 271,Law of Obligation 1,LAW,1,1,8,4,10,3,5,0,0,0,2,33,3%   24.2%   12.1%   30.3%   24.2%,1,1,2023,431
+LAW 301,International Public Law,LAW,0,8,16,17,25,1,10,0,0,0,0,77,10.4%   20.8%   22.1%   32.5%   14.3%,0,1,2023,577
+LAW 335,International legal protection of human rights,LAW,1,13,0,0,0,0,0,0,0,0,0,13,100%   0%   0%   0%   0%,0,1,2023,93
+LAW 351,Criminology,LAW,0,10,25,19,4,0,2,0,0,0,0,60,16.7%   41.7%   31.7%   6.7%   3.3%,0,1,2023,433
+LAW 351,Criminology,LAW,1,9,2,0,0,0,4,0,0,0,0,15,60%   13.3%   0%   0%   26.7%,1,1,2023,311
+LAW 351,Criminology,LAW,0,1,0,0,0,0,1,0,0,0,0,2,50%   0%   0%   0%   50%,1,1,2023,432
+LAW 356,Execution of judgment,LAW,0,18,25,27,18,0,5,0,0,0,0,93,19.4%   26.9%   29%   19.4%   5.4%,0,1,2023,433
+LAW 356,Execution of judgment,LAW,0,2,0,0,0,0,1,0,0,0,0,3,66.7%   0%   0%   0%   33.3%,1,1,2023,432
+LAW 361,Еntrepreneurial and corporate law,LAW,0,1,6,2,9,1,5,0,0,0,0,24,4.2%   25%   8.3%   37.5%   25%,0,1,2023,467
+LAW 361,Еntrepreneurial and corporate law,LAW,1,0,8,5,14,0,10,0,0,0,0,37,0%   21.6%   13.5%   37.8%   27%,0,1,2023,353
+LAW 370,International commercial law,LAW,0,3,1,6,6,0,0,0,0,0,0,16,18.8%   6.3%   37.5%   37.5%   0%,0,1,2023,467
+LAW 370,International commercial law,LAW,0,1,0,0,0,0,0,0,0,0,0,1,100%   0%   0%   0%   0%,1,1,2023,432
+LAW 385,Civil procedural law of RK 1,LAW,1,0,9,19,6,4,8,0,0,0,0,46,0%   19.6%   41.3%   13%   26.1%,1,1,2023,135
+LAW 385,Civil procedural law of RK 1,LAW,1,1,2,4,10,6,11,0,0,0,0,34,2.9%   5.9%   11.8%   29.4%   50%,0,1,2023,133
+LAW 386,Labour relations and labour disputes,LAW,1,5,4,16,9,0,6,0,0,0,0,40,12.5%   10%   40%   22.5%   15%,1,1,2023,135
+LAW 386,Labour relations and labour disputes,LAW,1,18,9,3,3,0,2,0,0,0,0,35,51.4%   25.7%   8.6%   8.6%   5.7%,0,1,2023,124
+LAW 393,Criminal Procedure Law of the RK,LAW,1,12,6,5,4,1,5,0,0,0,1,34,35.3%   17.6%   14.7%   11.8%   17.6%,1,1,2023,311
+LAW 393,Criminal Procedure Law of the RK,LAW,1,7,8,4,5,1,5,0,0,0,1,31,22.6%   25.8%   12.9%   16.1%   19.4%,0,1,2023,137
+LAW 402,Professional Practice,LAW,0,2,0,0,0,0,0,0,0,0,0,2,100%   0%   0%   0%   0%,1,1,2023,432
+LAW 405,International arbitration,LAW,1,4,4,3,4,1,0,0,0,0,0,16,25%   25%   18.8%   25%   6.3%,1,1,2023,431
+LAW 405,International arbitration,LAW,0,1,0,0,0,0,0,0,0,0,0,1,100%   0%   0%   0%   0%,1,1,2023,432
+LAW 469,Administrative procedures and administrative court proceedings of the Republic of Kazakhstan,LAW,1,6,15,24,9,2,3,0,0,0,0,59,10.2%   25.4%   40.7%   15.3%   8.5%,1,1,2023,135
+LAW 469,Administrative procedures and administrative court proceedings of the Republic of Kazakhstan,LAW,1,0,4,6,5,0,3,0,0,0,0,18,0%   22.2%   33.3%   27.8%   16.7%,0,1,2023,133
+LAW 469,Administrative procedures and administrative court proceedings of the Republic of Kazakhstan,LAW,0,1,0,0,0,0,2,0,0,0,0,3,33.3%   0%   0%   0%   66.7%,1,1,2023,432
+LAW 470,Internship,LAW,0,0,2,0,0,0,0,0,0,0,0,2,0%   100%   0%   0%   0%,1,1,2023,432
+LAW 477,Professional ethics of a lawyer,LAW,0,13,18,19,6,0,1,0,0,0,0,57,22.8%   31.6%   33.3%   10.5%   1.8%,0,1,2023,433
+LAW 477,Professional ethics of a lawyer,LAW,0,8,16,5,0,0,3,0,0,0,0,32,25%   50%   15.6%   0%   9.4%,1,1,2023,435
+LAW 477,Professional ethics of a lawyer,LAW,0,2,0,0,0,0,1,0,0,0,0,3,66.7%   0%   0%   0%   33.3%,1,1,2023,432
+LAW 479,Selected cases from the practice of international law firms,LAW,0,76,9,0,0,0,1,0,0,0,0,86,88.4%   10.5%   0%   0%   1.2%,1,1,2023,432
+LAW 483,Internship,LAW,0,0,1,0,0,0,0,0,0,0,0,1,0%   100%   0%   0%   0%,1,1,2023,432
+LAW 494,State examination,LAW,0,1,0,3,6,0,1,0,0,0,0,11,9.1%   0%   27.3%   54.5%   9.1%,1,1,2023,562
+MAN 308,Human Resource Management,BS,1,21,18,17,6,1,7,0,0,0,0,70,30%   25.7%   24.3%   8.6%   11.4%,0,1,2023,46
+MAN 312,Leadership,BS,0,23,51,18,4,0,6,0,0,0,0,102,22.5%   50%   17.6%   3.9%   5.9%,0,1,2023,438
+MAN 312,Leadership,BS,0,23,37,16,14,1,5,0,0,0,0,96,24%   38.5%   16.7%   14.6%   6.3%,1,1,2023,47
+MAN 312,Leadership,BS,1,4,13,3,0,0,2,0,0,0,0,22,18.2%   59.1%   13.6%   0%   9.1%,1,1,2023,578
+MAN 329,Production Management,BS,0,18,20,41,19,4,11,0,0,0,0,113,15.9%   17.7%   36.3%   16.8%   13.3%,1,1,2023,579
+MAN 405,Logistics and Transportation Management,BS,1,7,27,11,0,0,3,0,0,0,0,48,14.6%   56.3%   22.9%   0%   6.3%,1,1,2023,442
+MAN 413,Data Analysis in Business and Economics,BS,1,55,42,22,17,0,8,0,0,0,0,144,38.2%   29.2%   15.3%   11.8%   5.6%,0,1,2023,58
+MAN 413,Data Analysis in Business and Economics,BS,1,8,5,5,0,0,2,0,0,0,0,20,40%   25%   25%   0%   10%,0,1,2023,439
+MAN 423,Business Communication,PED,0,37,30,1,1,0,4,0,0,0,0,73,50.7%   41.1%   1.4%   1.4%   5.5%,1,1,2023,148
+MAR 201,Principles of Marketing,BS,0,17,20,31,25,1,15,0,0,0,2,111,15.3%   18%   27.9%   22.5%   14.4%,1,1,2023,325
+MAR 201,Principles of Marketing,BS,0,18,29,36,19,4,4,0,0,0,0,110,16.4%   26.4%   32.7%   17.3%   7.3%,1,1,2023,48
+MAR 218,Consumer Behaviour,BS,1,0,12,23,14,1,6,0,0,0,0,56,0%   21.4%   41.1%   25%   12.5%,0,1,2023,363
+MAR 304,Designing user Experience and Webanalytics,BS,0,33,8,2,0,0,3,0,0,0,0,46,71.7%   17.4%   4.3%   0%   6.5%,1,1,2023,580
+MAR 307,Sales Management,BS,0,23,52,10,0,0,5,0,0,0,0,90,25.6%   57.8%   11.1%   0%   5.6%,1,1,2023,152
+MAR 313,Brand Management,BS,0,13,19,10,11,5,14,0,0,0,0,72,18.1%   26.4%   13.9%   15.3%   26.4%,0,1,2023,144
+MAR 313,Brand Management,BS,0,38,10,0,1,0,5,0,0,0,0,54,70.4%   18.5%   0%   1.9%   9.3%,0,1,2023,147
+MAR 317,Introduction to Digital Marketing,BS,0,18,22,3,4,0,4,0,0,0,0,51,35.3%   43.1%   5.9%   7.8%   7.8%,0,1,2023,441
+MAR 401,Neuromarketing,BS,0,31,8,2,0,0,3,0,0,0,0,44,70.5%   18.2%   4.5%   0%   6.8%,1,1,2023,580
+MAR 409,Marketing Communications,BS,0,4,21,1,0,0,1,0,0,0,0,27,14.8%   77.8%   3.7%   0%   3.7%,1,1,2023,581
+MAR 409,Marketing Communications,BS,0,9,12,2,0,0,4,0,0,0,1,28,32.1%   42.9%   7.1%   0%   14.3%,1,1,2023,152
+MAR 417,Customer Relationship Management,BS,1,8,17,12,1,1,2,0,0,0,0,41,19.5%   41.5%   29.3%   2.4%   7.3%,1,1,2023,146
+MAT 101,Mathematical analysis 1,ENG,1,6,30,31,30,4,9,0,0,0,0,110,5.5%   27.3%   28.2%   27.3%   11.8%,0,1,2023,391
+MAT 106,Information and Communication Technologies (in English),ENG,0,35,113,84,25,5,10,0,0,0,1,273,12.8%   41.4%   30.8%   9.2%   5.5%,0,1,2023,70
+MAT 108,Algebra,ENG,0,4,16,28,14,5,5,0,0,0,0,72,5.6%   22.2%   38.9%   19.4%   13.9%,0,1,2023,519
+MAT 108,Algebra,ENG,1,12,11,17,32,11,20,0,0,0,5,108,11.1%   10.2%   15.7%   29.6%   28.7%,0,1,2023,334
+MAT 123,Linear Algebra,ENG,0,16,60,95,69,30,23,0,0,0,6,299,5.4%   20.1%   31.8%   23.1%   17.7%,1,1,2023,249
+MAT 124,Algorithms and programming 2,ENG,0,4,20,29,7,0,1,0,0,0,0,61,6.6%   32.8%   47.5%   11.5%   1.6%,0,1,2023,519
+MAT 124,Algorithms and programming 2,ENG,0,4,38,65,32,4,11,0,0,0,3,157,2.5%   24.2%   41.4%   20.4%   9.6%,1,1,2023,382
+MAT 125,Discrete mathematics,ENG,1,10,39,33,59,6,25,0,0,0,1,173,5.8%   22.5%   19.1%   34.1%   17.9%,0,1,2023,173
+MAT 125,Discrete mathematics,ENG,0,3,3,7,6,1,5,0,0,0,0,25,12%   12%   28%   24%   24%,1,1,2023,165
+MAT 151,Linear Algebra,ENG,1,35,78,37,18,19,16,0,0,0,0,203,17.2%   38.4%   18.2%   8.9%   17.2%,0,1,2023,160
+MAT 154,Mathematics for Computer Science 2,ENG,0,5,11,14,2,0,1,0,0,0,0,33,15.2%   33.3%   42.4%   6.1%   3%,0,1,2023,347
+MAT 156,Discrete Mathematics,ENG,0,26,86,87,27,14,19,0,0,0,4,263,9.9%   32.7%   33.1%   10.3%   12.5%,0,1,2023,519
+MAT 156,Discrete Mathematics,ENG,0,1,4,12,21,12,12,0,0,0,3,65,1.5%   6.2%   18.5%   32.3%   36.9%,1,1,2023,163
+MAT 156,Discrete Mathematics,ENG,0,1,31,33,16,4,2,0,0,0,1,88,1.1%   35.2%   37.5%   18.2%   6.8%,1,1,2023,165
+MAT 203,Mathematical analysis 3,ENG,1,16,21,24,19,7,12,0,0,0,0,99,16.2%   21.2%   24.2%   19.2%   19.2%,0,1,2023,166
+MAT 203,Mathematical analysis 3,ENG,1,2,6,15,14,14,5,0,0,0,1,57,3.5%   10.5%   26.3%   24.6%   33.3%,0,1,2023,411
+MAT 211,Abstract Algebra,ENG,0,0,1,3,6,10,7,0,0,0,1,28,0%   3.6%   10.7%   21.4%   60.7%,1,1,2023,443
+MAT 213,Introduction to Real Analysis,ENG,1,2,5,9,32,5,14,0,0,0,0,67,3%   7.5%   13.4%   47.8%   28.4%,1,1,2023,156
+MAT 213,Introduction to Real Analysis,ENG,1,1,12,13,9,3,6,0,0,0,0,44,2.3%   27.3%   29.5%   20.5%   20.5%,0,1,2023,446
+MAT 218,Introduction to Numerical Analysis,ENG,1,7,32,18,16,4,11,0,0,0,1,89,7.9%   36%   20.2%   18%   16.9%,0,1,2023,170
+MAT 251,Probability and Mathematical Statictics,ENG,0,81,131,59,41,11,45,0,0,0,2,370,21.9%   35.4%   15.9%   11.1%   15.1%,0,1,2023,70
+MAT 251,Probability and Mathematical Statictics,ENG,1,13,54,117,82,22,74,0,0,0,4,366,3.6%   14.8%   32%   22.4%   26.2%,0,1,2023,582
+MAT 251,Probability and Mathematical Statictics,ENG,0,26,23,22,10,5,6,0,0,0,0,92,28.3%   25%   23.9%   10.9%   12%,1,1,2023,169
+MAT 254,Probability and Mathematical Statictics,ENG,1,10,18,13,3,0,6,0,0,0,1,51,19.6%   35.3%   25.5%   5.9%   11.8%,0,1,2023,247
+MAT 254,Probability and Mathematical Statictics,ENG,0,18,37,17,17,3,11,0,0,0,1,104,17.3%   35.6%   16.3%   16.3%   13.5%,1,1,2023,583
+MAT 303,Internship 1,ENG,0,93,10,0,0,0,13,0,0,0,0,116,80.2%   8.6%   0%   0%   11.2%,1,1,2023,520
+MAT 312,Theory of Probablility and Mathematical Statistics,ENG,1,9,30,16,16,9,11,0,0,0,2,93,9.7%   32.3%   17.2%   17.2%   21.5%,1,1,2023,172
+MAT 312,Theory of Probablility and Mathematical Statistics,ENG,1,6,4,5,21,4,11,0,0,0,0,51,11.8%   7.8%   9.8%   41.2%   29.4%,1,1,2023,171
+MAT 315,Differential geometry and topology,ENG,1,2,2,1,1,0,3,0,0,0,1,10,20%   20%   10%   10%   30%,0,1,2023,391
+MAT 320,Introduction to Partial Differential Equations,ENG,1,15,33,15,0,0,1,0,0,0,0,64,23.4%   51.6%   23.4%   0%   1.6%,1,1,2023,444
+MAT 327,Internship 2,ENG,0,3,3,0,0,0,1,0,0,0,0,7,42.9%   42.9%   0%   0%   14.3%,1,1,2023,520
+MAT 328,Internship 3,ENG,0,67,2,0,0,0,1,0,0,0,0,70,95.7%   2.9%   0%   0%   1.4%,1,1,2023,520
+MAT 331,Optimization methods,ENG,0,2,16,7,11,1,6,0,0,0,1,44,4.5%   36.4%   15.9%   25%   15.9%,1,1,2023,584
+MAT 332,Additional chapters of mathematical analysis,ENG,1,1,4,2,8,0,3,0,0,0,0,18,5.6%   22.2%   11.1%   44.4%   16.7%,0,1,2023,166
+MAT 364,Cryptography,ENG,0,1,5,16,45,7,24,0,0,0,0,98,1%   5.1%   16.3%   45.9%   31.6%,1,1,2023,165
+MAT 370,Methods of Scientific research,ENG,1,91,22,6,0,0,10,0,0,0,0,129,70.5%   17.1%   4.7%   0%   7.8%,0,1,2023,174
+MAT 402,Graduation thesis,ENG,1,0,3,0,0,0,0,0,0,0,0,3,0%   100%   0%   0%   0%,0,1,2023,445
+MAT 427,Enumerative Combinatorics,ENG,1,2,6,4,0,0,8,0,0,0,3,23,8.7%   26.1%   17.4%   0%   34.8%,0,1,2023,175
+MAT 445,Game theory,ENG,1,1,5,9,30,0,5,0,0,0,0,50,2%   10%   18%   60%   10%,0,1,2023,446
+MAT 448,Industrial project 1 (all),ENG,0,10,5,0,0,0,1,0,0,0,0,16,62.5%   31.3%   0%   0%   6.3%,1,1,2023,520
+MAT 461,Actuarial principles and their applications,ENG,0,25,4,2,0,0,2,0,0,0,0,33,75.8%   12.1%   6.1%   0%   6.1%,0,1,2023,176
+MAT 489,Mathematical modelling of economic processes,ENG,0,3,23,4,0,0,0,0,0,0,0,30,10%   76.7%   13.3%   0%   0%,0,1,2023,176
+MAT 519,Geometric and functional inequalities on Lie groups,ENG,1,1,1,7,13,1,0,0,0,0,0,23,4.3%   4.3%   30.4%   56.5%   4.3%,0,1,2023,174
+MAT 665,Representation Theory,ENG,1,0,28,9,0,0,2,0,0,0,0,39,0%   71.8%   23.1%   0%   5.1%,0,1,2023,154
+MCM 103,Calculus 1,ENG,1,6,21,38,36,11,1,0,0,0,0,113,5.3%   18.6%   33.6%   31.9%   10.6%,1,1,2023,159
+MCM 103,Calculus 1,ENG,1,6,14,15,8,9,5,0,0,0,0,57,10.5%   24.6%   26.3%   14%   24.6%,1,1,2023,157
+MCM 203,Calculus 3,ENG,1,4,12,10,25,1,0,0,0,0,0,52,7.7%   23.1%   19.2%   48.1%   1.9%,1,1,2023,159
+MCM 204,Ordinary differential equations,ENG,1,10,6,5,8,1,1,0,0,0,0,31,32.3%   19.4%   16.1%   25.8%   6.5%,1,1,2023,155
+MCM 302,Numerical methods,ENG,1,3,13,4,1,0,2,0,0,0,0,23,13%   56.5%   17.4%   4.3%   8.7%,0,1,2023,170
+MCM 304,Internship 1,ENG,0,24,0,0,0,0,3,0,0,0,0,27,88.9%   0%   0%   0%   11.1%,1,1,2023,520
+MCM 401,Internship 3,ENG,0,49,4,0,0,0,0,0,0,0,0,53,92.5%   7.5%   0%   0%   0%,1,1,2023,520
+MCM 448,Industrial project 1 (all),ENG,0,13,6,1,0,0,0,0,0,0,0,20,65%   30%   5%   0%   0%,1,1,2023,520
+MDE 103,Foreign Language 1 (English for Academic Purposes - B1 level ),MDE,0,5,16,9,1,0,1,0,0,0,0,32,15.6%   50%   28.1%   3.1%   3.1%,1,1,2023,473
+MDE 104,Foreign Language 1 (English for Academic Purposes - B2 level),MDE,0,4,4,3,1,0,0,0,0,0,0,12,33.3%   33.3%   25%   8.3%   0%,1,1,2023,183
+MDE 104,Foreign Language 1 (English for Academic Purposes - B2 level),MDE,0,7,11,6,2,0,0,0,0,0,0,26,26.9%   42.3%   23.1%   7.7%   0%,1,1,2023,181
+MDE 107,Foreign Language 1 (General English - A1 level),MDE,0,22,43,18,12,7,4,0,0,0,10,116,19%   37.1%   15.5%   10.3%   9.5%,1,1,2023,464
+MDE 107,Foreign Language 1 (General English - A1 level),LAW,0,8,3,2,3,1,1,0,0,0,0,18,44.4%   16.7%   11.1%   16.7%   11.1%,1,1,2023,183
+MDE 107,Foreign Language 1 (General English - A1 level),MDE,0,12,19,4,0,0,1,0,0,0,0,36,33.3%   52.8%   11.1%   0%   2.8%,1,1,2023,474
+MDE 107,Foreign Language 1 (General English - A1 level),LAW,0,0,6,6,3,2,0,0,0,0,0,17,0%   35.3%   35.3%   17.6%   11.8%,1,1,2023,585
+MDE 107,Foreign Language 1 (General English - A1 level),MDE,0,7,23,2,1,0,1,0,0,0,0,34,20.6%   67.6%   5.9%   2.9%   2.9%,1,1,2023,473
+MDE 107,Foreign Language 1 (General English - A1 level),MDE,0,0,2,8,8,2,1,0,0,0,0,21,0%   9.5%   38.1%   38.1%   14.3%,1,1,2023,318
+MDE 107,Foreign Language 1 (General English - A1 level),MDE,0,13,15,12,13,5,4,0,0,0,1,63,20.6%   23.8%   19%   20.6%   14.3%,1,1,2023,184
+MDE 111,Kazakh Language 1 (А1 level/ for foreigners),MDE,0,13,5,4,1,0,3,0,0,0,0,26,50%   19.2%   15.4%   3.8%   11.5%,1,1,2023,452
+MDE 115,Kazakh Language 1 (B2 level),MDE,0,35,53,9,3,0,2,0,0,0,0,102,34.3%   52%   8.8%   2.9%   2%,0,1,2023,193
+MDE 115,Kazakh Language 1 (B2 level),MDE,1,33,32,9,1,0,2,0,0,0,1,78,42.3%   41%   11.5%   1.3%   2.6%,1,1,2023,191
+MDE 115,Kazakh Language 1 (B2 level),MDE,0,53,43,1,0,0,3,0,0,0,0,100,53%   43%   1%   0%   3%,1,1,2023,190
+MDE 115,Kazakh Language 1 (B2 level),MDE,0,20,18,5,0,0,7,0,0,0,1,51,39.2%   35.3%   9.8%   0%   13.7%,1,1,2023,189
+MDE 115,Kazakh Language 1 (B2 level),MDE,0,15,43,25,5,2,12,0,0,0,0,102,14.7%   42.2%   24.5%   4.9%   13.7%,1,1,2023,188
+MDE 115,Kazakh Language 1 (B2 level),MDE,0,65,69,17,5,0,3,0,0,0,1,160,40.6%   43.1%   10.6%   3.1%   1.9%,1,1,2023,452
+MDE 115,Kazakh Language 1 (B2 level),MDE,0,61,24,16,1,0,4,0,0,0,2,108,56.5%   22.2%   14.8%   0.9%   3.7%,1,1,2023,186
+MDE 117,Kazakh Language 1 (C1 level),MDE,0,17,26,5,1,0,1,0,0,0,0,50,34%   52%   10%   2%   2%,0,1,2023,193
+MDE 117,Kazakh Language 1 (C1 level),MDE,0,58,33,5,0,0,3,0,0,0,1,100,58%   33%   5%   0%   3%,1,1,2023,189
+MDE 117,Kazakh Language 1 (C1 level),MDE,0,8,47,10,5,0,4,0,0,0,0,74,10.8%   63.5%   13.5%   6.8%   5.4%,1,1,2023,188
+MDE 117,Kazakh Language 1 (C1 level),MDE,0,13,12,0,0,0,0,0,0,0,0,25,52%   48%   0%   0%   0%,1,1,2023,453
+MDE 117,Kazakh Language 1 (C1 level),MDE,0,39,9,1,0,0,1,0,0,0,0,50,78%   18%   2%   0%   2%,1,1,2023,186
+MDE 121,Russian Language 1 (А1 level/ for foreigners),MDE,0,5,10,8,0,0,1,0,0,0,0,24,20.8%   41.7%   33.3%   0%   4.2%,1,1,2023,194
+MDE 125,Russian Language 1 (B2 level),MDE,1,0,20,4,0,0,1,0,0,0,0,25,0%   80%   16%   0%   4%,1,1,2023,198
+MDE 125,Russian Language 1 (B2 level),MDE,1,25,61,7,1,0,4,0,0,0,1,99,25.3%   61.6%   7.1%   1%   4%,1,1,2023,457
+MDE 125,Russian Language 1 (B2 level),MDE,0,37,38,20,2,0,3,0,0,0,1,101,36.6%   37.6%   19.8%   2%   3%,1,1,2023,456
+MDE 125,Russian Language 1 (B2 level),MDE,1,9,57,22,3,0,6,0,0,0,2,99,9.1%   57.6%   22.2%   3%   6.1%,1,1,2023,455
+MDE 125,Russian Language 1 (B2 level),MDE,0,20,53,17,2,0,4,0,0,0,2,98,20.4%   54.1%   17.3%   2%   4.1%,1,1,2023,196
+MDE 125,Russian Language 1 (B2 level),MDE,1,5,40,34,8,4,5,0,0,0,2,98,5.1%   40.8%   34.7%   8.2%   9.2%,1,1,2023,195
+MDE 125,Russian Language 1 (B2 level),MDE,0,22,54,38,4,0,5,0,0,0,0,123,17.9%   43.9%   30.9%   3.3%   4.1%,1,1,2023,194
+MDE 127,Russian Language 1 (C1 level),MDE,1,11,32,10,1,0,5,0,0,0,1,60,18.3%   53.3%   16.7%   1.7%   8.3%,1,1,2023,198
+MDE 127,Russian Language 1 (C1 level),MDE,1,5,6,0,0,0,0,0,0,0,0,11,45.5%   54.5%   0%   0%   0%,1,1,2023,457
+MDE 127,Russian Language 1 (C1 level),MDE,0,12,28,7,1,0,2,0,0,0,1,51,23.5%   54.9%   13.7%   2%   3.9%,1,1,2023,456
+MDE 127,Russian Language 1 (C1 level),MDE,1,6,23,11,1,0,0,0,0,0,0,41,14.6%   56.1%   26.8%   2.4%   0%,1,1,2023,455
+MDE 127,Russian Language 1 (C1 level),MDE,0,12,19,17,1,0,1,0,0,0,0,50,24%   38%   34%   2%   2%,1,1,2023,196
+MDE 127,Russian Language 1 (C1 level),MDE,1,13,13,5,1,0,2,0,0,0,0,34,38.2%   38.2%   14.7%   2.9%   5.9%,1,1,2023,195
+MDE 131,Turkish Language 1 (А1 level),MDE,1,15,23,15,1,2,1,0,0,0,0,57,26.3%   40.4%   26.3%   1.8%   5.3%,1,1,2023,208
+MDE 131,Turkish Language 1 (А1 level),MDE,0,120,107,33,7,0,5,0,0,0,0,272,44.1%   39.3%   12.1%   2.6%   1.8%,1,1,2023,212
+MDE 131,Turkish Language 1 (А1 level),MDE,0,6,12,7,3,1,0,0,0,0,0,29,20.7%   41.4%   24.1%   10.3%   3.4%,1,1,2023,460
+MDE 131,Turkish Language 1 (А1 level),MDE,0,31,78,27,5,0,3,0,0,0,1,145,21.4%   53.8%   18.6%   3.4%   2.1%,1,1,2023,206
+MDE 131,Turkish Language 1 (А1 level),MDE,1,117,57,22,6,0,6,0,0,0,1,209,56%   27.3%   10.5%   2.9%   2.9%,1,1,2023,205
+MDE 131,Turkish Language 1 (А1 level),MDE,0,21,9,1,0,0,0,0,0,0,0,31,67.7%   29%   3.2%   0%   0%,0,1,2023,210
+MDE 131,Turkish Language 1 (А1 level),MDE,1,44,56,16,5,0,0,0,0,0,0,121,36.4%   46.3%   13.2%   4.1%   0%,1,1,2023,586
+MDE 131,Turkish Language 1 (А1 level),MDE,0,1,18,10,1,0,0,0,0,0,0,30,3.3%   60%   33.3%   3.3%   0%,1,1,2023,587
+MDE 131,Turkish Language 1 (А1 level),MDE,0,5,20,2,2,0,0,0,0,0,0,29,17.2%   69%   6.9%   6.9%   0%,1,1,2023,521
+MDE 131,Turkish Language 1 (А1 level),MDE,0,74,116,60,22,8,12,0,0,0,2,294,25.2%   39.5%   20.4%   7.5%   6.8%,1,1,2023,588
+MDE 131,Turkish Language 1 (А1 level),MDE,0,63,51,25,7,0,1,0,0,0,0,147,42.9%   34.7%   17%   4.8%   0.7%,1,1,2023,458
+MDE 131,Turkish Language 1 (А1 level),MDE,1,50,34,3,0,0,1,0,0,0,0,88,56.8%   38.6%   3.4%   0%   1.1%,0,1,2023,201
+MDE 131,Turkish Language 1 (А1 level),MDE,0,38,65,33,8,1,4,0,0,0,0,149,25.5%   43.6%   22.1%   5.4%   3.4%,0,1,2023,200
+MDE 133,Turkish Language 3 (А2 level),MDE,1,48,73,47,16,5,14,0,0,0,0,203,23.6%   36%   23.2%   7.9%   9.4%,1,1,2023,208
+MDE 133,Turkish Language 3 (А2 level),MDE,0,34,107,89,31,9,29,0,0,0,0,299,11.4%   35.8%   29.8%   10.4%   12.7%,1,1,2023,460
+MDE 133,Turkish Language 3 (А2 level),MDE,0,20,53,37,3,0,4,0,0,0,1,118,16.9%   44.9%   31.4%   2.5%   3.4%,1,1,2023,206
+MDE 133,Turkish Language 3 (А2 level),MDE,0,22,8,0,0,0,1,0,0,0,0,31,71%   25.8%   0%   0%   3.2%,0,1,2023,210
+MDE 133,Turkish Language 3 (А2 level),MDE,1,18,23,17,1,0,1,0,0,0,0,60,30%   38.3%   28.3%   1.7%   1.7%,1,1,2023,586
+MDE 133,Turkish Language 3 (А2 level),MDE,0,3,10,5,2,3,3,0,0,0,1,27,11.1%   37%   18.5%   7.4%   22.2%,1,1,2023,588
+MDE 133,Turkish Language 3 (А2 level),MDE,1,12,52,89,42,31,20,0,0,0,20,266,4.5%   19.5%   33.5%   15.8%   19.2%,0,1,2023,223
+MDE 133,Turkish Language 3 (А2 level),MDE,0,62,74,31,7,2,4,0,0,0,0,180,34.4%   41.1%   17.2%   3.9%   3.3%,1,1,2023,458
+MDE 133,Turkish Language 3 (А2 level),MDE,1,33,19,7,0,0,2,0,0,0,0,61,54.1%   31.1%   11.5%   0%   3.3%,0,1,2023,201
+MDE 133,Turkish Language 3 (А2 level),MDE,0,19,35,26,6,2,2,0,0,0,0,90,21.1%   38.9%   28.9%   6.7%   4.4%,0,1,2023,200
+MDE 151,Module of Social and Political Knowledge (Political Science),MDE,0,227,653,123,6,60,1,0,0,0,1,1071,21.2%   61%   11.5%   0.6%   5.7%,0,1,2023,224
+MDE 151,Module of Social and Political Knowledge (Political Science),LAW,0,11,1,0,0,0,1,0,0,0,1,14,78.6%   7.1%   0%   0%   7.1%,1,1,2023,524
+MDE 151,Module of Social and Political Knowledge (Political Science),MDE,0,51,13,0,1,1,2,0,0,0,0,68,75%   19.1%   0%   1.5%   4.4%,0,1,2023,523
+MDE 152,Module of Social and Political Knowledge (Sociology),LAW,0,11,0,0,0,0,2,0,0,0,2,15,73.3%   0%   0%   0%   13.3%,1,1,2023,524
+MDE 152,Module of Social and Political Knowledge (Sociology),MDE,0,40,17,2,1,3,2,0,0,0,0,65,61.5%   26.2%   3.1%   1.5%   7.7%,0,1,2023,523
+MDE 152,Module of Social and Political Knowledge (Sociology),MDE,1,143,678,295,60,27,74,0,0,0,11,1288,11.1%   52.6%   22.9%   4.7%   7.8%,1,1,2023,522
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),MDE,0,306,139,16,6,4,16,0,0,0,1,488,62.7%   28.5%   3.3%   1.2%   4.1%,1,1,2023,524
+MDE 153,Module of Social and Political Knowledge (Cultural Studies),MDE,0,239,42,9,3,12,1,0,0,0,0,306,78.1%   13.7%   2.9%   1%   4.2%,0,1,2023,523
+MDE 154,Module of Social and Political Knowledge (Psychology),MDE,0,389,219,15,10,3,34,0,0,0,2,672,57.9%   32.6%   2.2%   1.5%   5.5%,1,1,2023,217
+MDE 154,Module of Social and Political Knowledge (Psychology),MDE,1,277,11,0,0,0,0,0,0,0,3,291,95.2%   3.8%   0%   0%   0%,1,1,2023,216
+MDE 156,Foreign Language 1 (English for Academic Purposes - B1 level ),BS,0,9,8,5,3,1,0,0,0,0,0,26,34.6%   30.8%   19.2%   11.5%   3.8%,1,1,2023,183
+MDE 156,Foreign Language 1 (English for Academic Purposes - B1 level ),MDE,0,22,14,1,0,0,3,0,0,0,0,40,55%   35%   2.5%   0%   7.5%,1,1,2023,474
+MDE 156,Foreign Language 1 (English for Academic Purposes - B1 level ),BS,0,7,7,2,3,1,3,0,0,0,0,23,30.4%   30.4%   8.7%   13%   17.4%,1,1,2023,184
+MDE 157,Foreign Language 1 (English for Academic Purposes - B2 level),BS,0,2,7,0,0,0,0,0,0,0,0,9,22.2%   77.8%   0%   0%   0%,1,1,2023,464
+MDE 157,Foreign Language 1 (English for Academic Purposes - B2 level),BS,0,5,11,5,4,0,3,0,0,0,0,28,17.9%   39.3%   17.9%   14.3%   10.7%,1,1,2023,449
+MDE 160,Community engagement and value based Society 1,MDE,0,0,0,0,0,0,0,1772,40,0,9,1821,0%   0%   0%   0%   0%,1,1,2023,525
+MDE 161,Еconomy,BS,0,1,17,10,2,0,1,0,0,0,0,31,3.2%   54.8%   32.3%   6.5%   3.2%,1,1,2023,589
+MDE 162,Law,ENG,0,21,16,15,8,4,8,0,0,0,1,73,28.8%   21.9%   20.5%   11%   16.4%,0,1,2023,127
+MDE 162,Law,LAW,0,21,57,36,18,3,11,0,0,0,3,149,14.1%   38.3%   24.2%   12.1%   9.4%,1,1,2023,432
+MDE 164,Еcology,ENG,0,32,25,12,6,0,9,0,0,0,1,85,37.6%   29.4%   14.1%   7.1%   10.6%,1,1,2023,479
+MDE 165,General Security,ENG,1,18,52,33,2,0,5,0,0,0,0,110,16.4%   47.3%   30%   1.8%   4.5%,1,1,2023,241
+MDE 166,Еntrepreneurship,MDE,0,15,29,35,15,1,14,0,0,0,1,110,13.6%   26.4%   31.8%   13.6%   13.6%,0,1,2023,418
+MDE 167,Leadership,ENG,0,24,69,38,23,6,19,0,0,0,2,181,13.3%   38.1%   21%   12.7%   13.8%,1,1,2023,590
+MDE 167,Leadership,MDE,0,1,25,24,2,0,0,0,0,0,1,53,1.9%   47.2%   45.3%   3.8%   0%,0,1,2023,468
+MDE 171,History of Kazakhstan,MDE,1,50,117,60,18,0,10,0,0,0,0,255,19.6%   45.9%   23.5%   7.1%   3.9%,0,1,2023,591
+MDE 171,History of Kazakhstan,MDE,0,86,152,48,17,0,7,0,0,0,1,311,27.7%   48.9%   15.4%   5.5%   2.3%,0,1,2023,219
+MDE 171,History of Kazakhstan,MDE,0,2,8,4,3,0,4,0,0,0,0,21,9.5%   38.1%   19%   14.3%   19%,0,1,2023,218
+MDE 171,History of Kazakhstan,MDE,1,61,130,26,7,0,3,0,0,0,0,227,26.9%   57.3%   11.5%   3.1%   1.3%,0,1,2023,69
+MDE 172,Philosophy,MDE,1,129,200,85,16,0,58,0,0,0,8,496,26%   40.3%   17.1%   3.2%   11.7%,0,1,2023,220
+MDE 172,Philosophy,MDE,1,87,85,22,6,4,17,0,0,0,2,223,39%   38.1%   9.9%   2.7%   9.4%,0,1,2023,262
+MDE 173,Information and Communication Technologies (in English),MDE,0,63,98,26,19,4,6,0,0,0,12,228,27.6%   43%   11.4%   8.3%   4.4%,0,1,2023,592
+MDE 173,Information and Communication Technologies (in English),MDE,0,50,63,43,27,11,10,0,0,0,4,208,24%   30.3%   20.7%   13%   10.1%,0,1,2023,21
+MDE 173,Information and Communication Technologies (in English),MDE,0,75,109,51,28,15,18,0,0,0,7,303,24.8%   36%   16.8%   9.2%   10.9%,1,1,2023,221
+MDE 177,Turkish Language 1 (А1 level),MDE,0,14,50,42,3,1,4,0,0,0,0,114,12.3%   43.9%   36.8%   2.6%   4.4%,1,1,2023,587
+MDE 177,Turkish Language 1 (А1 level),PED,0,44,68,22,7,2,2,0,0,0,0,145,30.3%   46.9%   15.2%   4.8%   2.8%,1,1,2023,521
+MDE 177,Turkish Language 1 (А1 level),PED,1,18,11,0,0,0,0,0,0,0,0,29,62.1%   37.9%   0%   0%   0%,1,1,2023,213
+MDE 177,Turkish Language 1 (А1 level),PED,0,5,16,5,2,0,1,0,0,0,0,29,17.2%   55.2%   17.2%   6.9%   3.4%,1,1,2023,222
+MDE 177,Turkish Language 1 (А1 level),PED,0,11,9,6,0,0,1,0,0,0,0,27,40.7%   33.3%   22.2%   0%   3.7%,1,1,2023,593
+MDE 179,Turkish Language 1 (B1 level),MDE,1,16,11,2,2,0,0,0,0,0,0,31,51.6%   35.5%   6.5%   6.5%   0%,1,1,2023,205
+MDE 187,Foreign Language 2 (English for Academic Purposes - B1+ level ),MDE,0,10,10,22,13,0,4,0,0,0,0,59,16.9%   16.9%   37.3%   22%   6.8%,1,1,2023,449
+MDE 188,Foreign Language 2 (English for Academic Purposes - B1+ level ),MDE,0,1,2,5,1,0,0,0,0,0,0,9,11.1%   22.2%   55.6%   11.1%   0%,1,1,2023,181
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),ENG,0,16,14,5,1,1,1,0,0,0,0,38,42.1%   36.8%   13.2%   2.6%   5.3%,1,1,2023,181
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),ENG,0,11,22,4,3,0,5,0,0,0,0,45,24.4%   48.9%   8.9%   6.7%   11.1%,1,1,2023,474
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),MDE,1,9,22,16,5,0,4,0,0,0,0,56,16.1%   39.3%   28.6%   8.9%   7.1%,0,1,2023,305
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),ENG,0,12,22,10,3,4,5,0,0,0,2,58,20.7%   37.9%   17.2%   5.2%   15.5%,0,1,2023,227
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),MDE,0,4,13,6,0,0,0,0,0,0,0,23,17.4%   56.5%   26.1%   0%   0%,1,1,2023,180
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),MDE,0,5,23,20,3,0,4,0,0,0,0,55,9.1%   41.8%   36.4%   5.5%   7.3%,1,1,2023,473
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),ENG,0,2,7,6,4,0,4,0,0,0,1,24,8.3%   29.2%   25%   16.7%   16.7%,1,1,2023,184
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),ENG,0,2,9,8,3,0,0,0,0,0,0,22,9.1%   40.9%   36.4%   13.6%   0%,1,1,2023,449
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),MDE,0,4,3,6,1,2,2,0,0,0,1,19,21.1%   15.8%   31.6%   5.3%   21.1%,1,1,2023,272
+MDE 190,Foreign Language 1 (English for Academic Purposes - B1 level ),ENG,0,14,23,13,10,0,5,0,0,0,1,66,21.2%   34.8%   19.7%   15.2%   7.6%,0,1,2023,594
+MDE 191,Foreign Language 2 (English for Academic Purposes - B1+ level ),ENG,0,19,22,13,2,0,2,0,0,0,0,58,32.8%   37.9%   22.4%   3.4%   3.4%,1,1,2023,183
+MDE 191,Foreign Language 2 (English for Academic Purposes - B1+ level ),ENG,0,1,5,0,2,0,4,0,0,0,0,12,8.3%   41.7%   0%   16.7%   33.3%,1,1,2023,181
+MDE 191,Foreign Language 2 (English for Academic Purposes - B1+ level ),ENG,0,8,18,21,11,4,0,0,0,0,0,62,12.9%   29%   33.9%   17.7%   6.5%,0,1,2023,227
+MDE 191,Foreign Language 2 (English for Academic Purposes - B1+ level ),ENG,0,2,11,4,1,0,1,0,0,0,1,20,10%   55%   20%   5%   5%,1,1,2023,449
+MDE 192,Foreign Language 1 (English for Academic Purposes - B2 level),ENG,1,19,44,9,0,0,0,0,0,0,0,72,26.4%   61.1%   12.5%   0%   0%,0,1,2023,305
+MDE 192,Foreign Language 1 (English for Academic Purposes - B2 level),ENG,0,11,12,2,1,0,1,0,0,0,0,27,40.7%   44.4%   7.4%   3.7%   3.7%,0,1,2023,594
+MDE 197,Foreign Language 1 (English for Academic Purposes - B1 level ),PED,0,2,16,3,1,0,1,0,0,0,0,23,8.7%   69.6%   13%   4.3%   4.3%,1,1,2023,263
+MDE 197,Foreign Language 1 (English for Academic Purposes - B1 level ),PED,0,28,48,9,0,0,0,0,0,0,0,85,32.9%   56.5%   10.6%   0%   0%,1,1,2023,180
+MDE 197,Foreign Language 1 (English for Academic Purposes - B1 level ),PED,0,3,8,4,1,0,0,0,0,0,0,16,18.8%   50%   25%   6.3%   0%,0,1,2023,594
+MDE 198,Foreign Language 2 (English for Academic Purposes - B1+ level ),PED,0,4,5,2,0,0,0,0,0,0,0,11,36.4%   45.5%   18.2%   0%   0%,1,1,2023,180
+MDE 198,Foreign Language 2 (English for Academic Purposes - B1+ level ),PED,0,10,16,9,5,0,0,0,0,0,0,40,25%   40%   22.5%   12.5%   0%,0,1,2023,594
+MDE 201,Turkish Language 1 (B1 level) (Debate club),MDE,1,27,3,0,0,0,2,0,0,0,0,32,84.4%   9.4%   0%   0%   6.3%,1,1,2023,213
+MDE 203,Turkish Language 3 (B2 level) (Debate club),MDE,1,23,3,0,0,0,0,0,0,0,0,26,88.5%   11.5%   0%   0%   0%,1,1,2023,213
+MDE 209,Turkish Language 1 (B1 level) ( Storytelling club),MDE,0,9,20,0,1,0,1,0,0,0,0,31,29%   64.5%   0%   3.2%   3.2%,1,1,2023,587
+MDE 211,Turkish Language 3 (B2 level) ( Storytelling club),MDE,0,10,15,2,1,0,2,0,0,0,0,30,33.3%   50%   6.7%   3.3%   6.7%,1,1,2023,587
+MDE 217,Turkish Language 1 (B1 level) (Translation club ),MDE,0,15,16,0,0,0,0,0,0,0,0,31,48.4%   51.6%   0%   0%   0%,1,1,2023,212
+MDE 219,Turkish Language 3 (B2 level) (Translation club ),MDE,0,14,13,2,0,0,0,0,0,0,0,29,48.3%   44.8%   6.9%   0%   0%,1,1,2023,212
+MDE 221,Turkish Language 1 (B1 level) (Poetry club),MDE,1,11,8,11,1,0,1,0,0,0,0,32,34.4%   25%   34.4%   3.1%   3.1%,1,1,2023,208
+MDE 225,Turkish Language 1 (B1 level) (Movie club),MDE,0,21,12,1,0,0,1,0,0,0,0,35,60%   34.3%   2.9%   0%   2.9%,0,1,2023,200
+MDE 227,Turkish Language 3 (B2 level) (Movie club),MDE,0,17,15,3,0,0,0,0,0,0,0,35,48.6%   42.9%   8.6%   0%   0%,0,1,2023,200
+MDE 233,Turkish Language 1 (B1 level) (Drama club),MDE,1,14,14,1,0,0,1,0,0,0,0,30,46.7%   46.7%   3.3%   0%   3.3%,1,1,2023,205
+MDE 235,Turkish Language 3 (B2 level) (Drama club),MDE,1,13,9,1,0,0,0,0,0,0,1,24,54.2%   37.5%   4.2%   0%   0%,1,1,2023,205
+MDE 281,German language 1,LAW,0,7,6,3,0,0,1,0,0,0,0,17,41.2%   35.3%   17.6%   0%   5.9%,1,1,2023,595
+MMS 101,Computer Programming 1,ENG,0,45,14,6,1,1,0,0,0,0,0,67,67.2%   20.9%   9%   1.5%   1.5%,0,1,2023,28
+MMS 102,Introduction to Multimedia Computing,ENG,0,51,22,10,3,2,0,0,0,0,1,89,57.3%   24.7%   11.2%   3.4%   2.2%,0,1,2023,28
+MMS 103,Fundamentals of design,ENG,0,42,20,5,0,0,4,0,0,0,0,71,59.2%   28.2%   7%   0%   5.6%,1,1,2023,596
+MMS 201,"2D animation (storyboard, storytelling, basics of animation)",ENG,0,9,20,2,0,0,2,0,0,0,0,33,27.3%   60.6%   6.1%   0%   6.1%,0,1,2023,83
+MMS 202,3D modeling (basics for character modeling),ENG,0,5,13,5,2,1,3,0,0,0,0,29,17.2%   44.8%   17.2%   6.9%   13.8%,0,1,2023,83
+MMS 203,Photography and Video production,ENG,0,5,13,6,1,0,1,0,0,0,1,27,18.5%   48.1%   22.2%   3.7%   3.7%,0,1,2023,83
+MMS 204,Illustration,ENG,0,4,6,0,0,0,0,0,0,0,0,10,40%   60%   0%   0%   0%,1,1,2023,87
+PED 104,Elementary mathematics,PED,0,5,29,9,4,0,3,0,0,0,2,52,9.6%   55.8%   17.3%   7.7%   5.8%,0,1,2023,528
+PED 113,Introductory Physics&Terminology,PED,0,47,40,8,0,1,4,0,0,0,0,100,47%   40%   8%   0%   5%,0,1,2023,597
+PED 129,Mathematical Analysis 1,PED,1,30,58,29,12,4,3,0,0,0,2,138,21.7%   42%   21%   8.7%   5.1%,0,1,2023,247
+PED 131,Mathematical analysis 3,PED,1,1,22,22,17,1,0,0,0,0,10,73,1.4%   30.1%   30.1%   23.3%   1.4%,0,1,2023,598
+PED 134,Botany,PED,0,26,29,15,6,4,2,0,0,0,0,82,31.7%   35.4%   18.3%   7.3%   7.3%,1,1,2023,479
+PED 136,Basis of General chemistry and terminology,PED,1,16,25,20,14,4,1,0,0,0,0,80,20%   31.3%   25%   17.5%   6.3%,0,1,2023,234
+PED 137,Mathematics,PED,0,6,31,20,14,6,3,0,0,0,2,82,7.3%   37.8%   24.4%   17.1%   11%,0,1,2023,528
+PED 138,Elementary mathematics + educational practice,PED,0,44,50,26,16,0,0,0,0,0,0,136,32.4%   36.8%   19.1%   11.8%   0%,1,1,2023,529
+PED 202,Cytology and Histology,PED,0,2,39,23,3,2,0,0,0,0,0,69,2.9%   56.5%   33.3%   4.3%   2.9%,1,1,2023,248
+PED 208,Thermodynamics,PED,0,8,21,20,4,5,1,0,0,0,1,60,13.3%   35%   33.3%   6.7%   10%,0,1,2023,599
+PED 243,Multidimensional geometry,PED,0,7,24,38,9,5,0,0,0,0,2,85,8.2%   28.2%   44.7%   10.6%   5.9%,0,1,2023,359
+PED 244,Analytic Geometry,PED,0,11,17,17,11,7,6,0,0,0,0,69,15.9%   24.6%   24.6%   15.9%   18.8%,1,1,2023,230
+PED 249,Computer architecture,PED,0,3,38,7,0,0,2,0,0,0,0,50,6%   76%   14%   0%   4%,0,1,2023,600
+PED 256,Programming for mathematics,PED,0,17,35,32,2,1,1,0,0,0,0,88,19.3%   39.8%   36.4%   2.3%   2.3%,0,1,2023,246
+PED 265,Ecology and Life Security Precautions,PED,1,25,53,3,1,0,0,0,0,0,0,82,30.5%   64.6%   3.7%   1.2%   0%,1,1,2023,245
+PED 265,Ecology and Life Security Precautions,PED,1,5,74,7,0,0,0,0,0,0,0,86,5.8%   86%   8.1%   0%   0%,1,1,2023,241
+PED 300,Mathematics Teaching Skills,PED,0,33,20,10,8,0,2,0,0,0,0,73,45.2%   27.4%   13.7%   11%   2.7%,1,1,2023,601
+PED 303,Analytical Chemistry(qualitative analysis),PED,0,17,96,12,1,0,0,0,0,0,0,126,13.5%   76.2%   9.5%   0.8%   0%,1,1,2023,480
+PED 314,Optics,PED,0,4,4,17,14,5,3,0,0,0,0,47,8.5%   8.5%   36.2%   29.8%   17%,0,1,2023,252
+PED 317,Databases,PED,0,9,25,12,2,0,2,0,0,0,1,51,17.6%   49%   23.5%   3.9%   3.9%,1,1,2023,481
+PED 318,Ordinary Differential Equations,PED,0,8,25,22,10,5,6,0,0,0,2,78,10.3%   32.1%   28.2%   12.8%   14.1%,1,1,2023,231
+PED 321,Web programming,PED,0,5,34,5,0,0,1,0,0,0,0,45,11.1%   75.6%   11.1%   0%   2.2%,0,1,2023,600
+PED 327,Mathematical statistics,PED,0,9,23,32,21,9,1,0,0,0,1,96,9.4%   24%   33.3%   21.9%   10.4%,0,1,2023,243
+PED 335,Professional Oriented Foreign Language(CLIL),PED,0,17,42,1,0,0,0,0,0,0,0,60,28.3%   70%   1.7%   0%   0%,1,1,2023,248
+PED 336,Environmental chemistry,PED,0,1,53,5,1,0,0,0,0,0,0,60,1.7%   88.3%   8.3%   1.7%   0%,1,1,2023,480
+PED 338,Human Anatomy and Physiology,PED,0,12,31,13,1,0,0,0,0,0,0,57,21.1%   54.4%   22.8%   1.8%   0%,0,1,2023,485
+PED 341,Computer networks,PED,0,4,17,17,8,1,1,0,0,0,0,48,8.3%   35.4%   35.4%   16.7%   4.2%,0,1,2023,602
+PED 343,Operating System and Databases,PED,0,2,22,13,6,1,0,0,0,0,0,44,4.5%   50%   29.5%   13.6%   2.3%,1,1,2023,481
+PED 345,Digital Design,PED,0,5,25,12,1,0,0,0,0,0,0,43,11.6%   58.1%   27.9%   2.3%   0%,0,1,2023,602
+PED 347,Electricity and magnetism,PED,0,4,14,13,10,4,4,0,0,0,1,50,8%   28%   26%   20%   16%,0,1,2023,237
+PED 352,Biochemistry (Bioorganic chemistry),PED,0,11,36,14,1,0,0,0,0,0,1,63,17.5%   57.1%   22.2%   1.6%   0%,0,1,2023,603
+PED 356,Discrete Mathematics,PED,1,4,21,18,24,7,6,0,0,0,13,93,4.3%   22.6%   19.4%   25.8%   14%,0,1,2023,598
+PED 359,History of Mathematics,PED,0,3,25,35,14,3,1,0,0,0,0,81,3.7%   30.9%   43.2%   17.3%   4.9%,1,1,2023,231
+PED 360,Pedagogy,PED,1,14,53,5,0,0,0,0,0,0,0,72,19.4%   73.6%   6.9%   0%   0%,1,1,2023,556
+PED 380,Methods of teaching mathematics and STEM,PED,0,8,58,22,3,0,1,0,0,0,0,92,8.7%   63%   23.9%   3.3%   1.1%,1,1,2023,230
+PED 407,Genetics,PED,0,5,22,35,0,0,0,0,0,0,0,62,8.1%   35.5%   56.5%   0%   0%,0,1,2023,485
+PED 426,Solving olympiad problems in chemistry,PED,1,0,0,0,0,0,1,0,0,0,0,1,0%   0%   0%   0%   100%,1,1,2023,487
+PED 433,Multimedia Technologies in Education,PED,0,28,21,6,3,0,1,0,0,0,0,59,47.5%   35.6%   10.2%   5.1%   1.7%,1,1,2023,604
+PED 435,Multimedia in education,PED,1,0,0,0,0,0,1,0,0,0,0,1,0%   0%   0%   0%   100%,1,1,2023,605
+PED 435,Multimedia in education,PED,0,24,6,1,0,0,0,0,0,0,0,31,77.4%   19.4%   3.2%   0%   0%,0,1,2023,600
+PED 436,Management in education,PED,0,68,70,3,1,0,1,0,0,0,0,143,47.6%   49%   2.1%   0.7%   0.7%,1,1,2023,606
+PED 437,Criteria-based assessment technology,PED,0,31,15,6,2,0,2,0,0,0,0,56,55.4%   26.8%   10.7%   3.6%   3.6%,1,1,2023,248
+PED 437,Criteria-based assessment technology,PED,1,24,60,6,2,0,5,0,0,0,0,97,24.7%   61.9%   6.2%   2.1%   5.2%,0,1,2023,256
+PED 439,Methodology of teaching Physics,PED,0,15,14,1,0,0,0,0,0,0,0,30,50%   46.7%   3.3%   0%   0%,0,1,2023,607
+PED 441,Methodology of teaching Informatics,PED,0,7,11,10,2,0,0,0,0,0,0,30,23.3%   36.7%   33.3%   6.7%   0%,0,1,2023,602
+PED 445,Solving Olympiad Problems in Physics,PED,1,1,4,12,13,0,1,0,0,0,0,31,3.2%   12.9%   38.7%   41.9%   3.2%,0,1,2023,232
+PED 450,Teaching students to solve Olympiad problems,PED,0,17,15,16,5,3,7,0,0,0,0,63,27%   23.8%   25.4%   7.9%   15.9%,0,1,2023,243
+PED 455,Improving the methodical training of future teachers.,PED,0,25,21,9,3,0,3,0,0,0,0,61,41%   34.4%   14.8%   4.9%   4.9%,1,1,2023,230
+PED 462,State exam on speciality,PED,0,0,1,0,1,0,0,0,0,0,0,2,0%   50%   0%   50%   0%,0,1,2023,246
+PED 474,Methods of teaching chemistry and STEM,PED,1,27,21,1,0,0,0,0,0,0,0,49,55.1%   42.9%   2%   0%   0%,1,1,2023,241
+PED 478,Methods of teaching biologyand and STEM,PED,0,37,11,2,1,0,0,0,0,0,0,51,72.5%   21.6%   3.9%   2%   0%,1,1,2023,479
+PED 482,Solving olympiad problems in chemistry,PED,1,8,12,27,3,0,0,0,0,0,0,50,16%   24%   54%   6%   0%,1,1,2023,487
+PED 488,Inclusive Education,PED,1,44,6,0,0,0,0,0,0,0,0,50,88%   12%   0%   0%   0%,1,1,2023,605
+PHT 107,Basics of writing,PED,1,10,8,2,0,0,0,0,0,0,0,20,50%   40%   10%   0%   0%,1,1,2023,116
+PHT 123,Introduction to linguistics,PED,1,9,33,23,14,0,1,0,0,0,0,80,11.3%   41.3%   28.8%   17.5%   1.3%,1,1,2023,120
+PHT 204,Modern Kazakh language: word formation and morphology,PED,0,8,7,0,0,0,0,0,0,0,0,15,53.3%   46.7%   0%   0%   0%,1,1,2023,429
+PHT 217,The History of the formation of Kazakh Literature,PED,0,5,7,3,1,0,0,0,0,0,0,16,31.3%   43.8%   18.8%   6.3%   0%,1,1,2023,122
+PHT 301,Modern Kazakh language: simple sentence and compound sentence syntax,PED,1,1,5,1,1,0,0,0,0,0,0,8,12.5%   62.5%   12.5%   12.5%   0%,1,1,2023,115
+PHT 304,History of Kazakh literature of the XX century,PED,1,2,3,2,0,0,0,0,0,0,0,7,28.6%   42.9%   28.6%   0%   0%,1,1,2023,116
+PHT 323,Stylistics of the Kazakh language,PED,0,7,0,0,0,0,0,0,0,0,0,7,100%   0%   0%   0%   0%,1,1,2023,429
+PRE 201,Age physiology and hygiene of preschool,PED,0,0,11,0,0,0,1,0,0,0,0,12,0%   91.7%   0%   0%   8.3%,1,1,2023,113
+PRE 205,Professional oriented foreign language,PED,0,3,8,0,0,0,0,0,0,0,0,11,27.3%   72.7%   0%   0%   0%,0,1,2023,557
+PRE 207,Kazakh Language for Professional Purposes,PED,1,5,5,1,1,0,2,0,0,0,0,14,35.7%   35.7%   7.1%   7.1%   14.3%,1,1,2023,111
+PRE 211,Game activities and technology,PED,0,4,5,2,0,0,1,0,0,0,0,12,33.3%   41.7%   16.7%   0%   8.3%,1,1,2023,488
+PRE 307,Methods of forming elementary mathematical representations of preschool children,PED,1,5,3,0,0,0,1,0,0,0,0,9,55.6%   33.3%   0%   0%   11.1%,1,1,2023,608
+PRE 309,Methods of speech development in preschool children,PED,1,3,6,0,0,0,1,0,0,0,0,10,30%   60%   0%   0%   10%,1,1,2023,608
+PRE 311,Formation of value-based worldview of preschool children,PED,0,1,8,0,0,0,1,0,0,0,0,10,10%   80%   0%   0%   10%,1,1,2023,488
+PRE 315,Search and experimental activities of preschool children,PED,0,3,5,0,0,0,1,0,0,0,0,9,33.3%   55.6%   0%   0%   11.1%,1,1,2023,488
+PRE 323,Fairy tale therapy,PED,0,1,6,1,0,0,1,0,0,0,0,9,11.1%   66.7%   11.1%   0%   11.1%,1,1,2023,488
+PRE 407,Theory and methodology for the development of children's creativity,PED,1,4,4,0,0,0,1,0,0,0,0,9,44.4%   44.4%   0%   0%   11.1%,1,1,2023,608
+PRI 110,Professional Development and Teacher Leadership,PED,1,11,5,0,0,0,0,0,0,0,0,16,68.8%   31.3%   0%   0%   0%,1,1,2023,605
+PRI 117,Pedagogy,PED,1,8,3,1,0,0,0,0,0,0,0,12,66.7%   25%   8.3%   0%   0%,1,1,2023,556
+PRI 119,Educational practice,PED,1,12,0,0,0,0,0,0,0,0,0,12,100%   0%   0%   0%   0%,1,1,2023,556
+PRI 223,Primary school didactics,PED,1,6,10,0,0,0,0,0,0,0,0,16,37.5%   62.5%   0%   0%   0%,1,1,2023,605
+PRI 225,Professionally oriented foreign language A1,PED,0,7,8,0,0,0,0,0,0,0,0,15,46.7%   53.3%   0%   0%   0%,0,1,2023,557
+PRI 301,Methods of artistic writing in elementary school.,PED,1,4,0,0,0,0,1,0,0,0,0,5,80%   0%   0%   0%   20%,1,1,2023,605
+PRI 305,Educational practice (Calligraphy),PED,1,4,0,0,0,0,1,0,0,0,0,5,80%   0%   0%   0%   20%,1,1,2023,605
+PRI 307,Methods of teaching literature in primary school,PED,1,4,0,0,0,0,1,0,0,0,0,5,80%   0%   0%   0%   20%,1,1,2023,605
+PRI 309,Educational practice (Literature),PED,1,4,0,2,0,0,1,0,0,0,0,7,57.1%   0%   28.6%   0%   14.3%,1,1,2023,605
+PRI 315,Theory and technology of teaching English in primary school,PED,0,1,3,0,0,0,1,0,0,0,0,5,20%   60%   0%   0%   20%,0,1,2023,557
+PRI 316,Pedagogical skills,PED,1,4,0,0,0,0,1,0,0,0,0,5,80%   0%   0%   0%   20%,1,1,2023,556
+PRI 323,Methods of Teaching Math in Primary School,PED,1,3,1,0,0,0,1,0,0,0,0,5,60%   20%   0%   0%   20%,0,1,2023,257
+PRI 324,Inclusive Education,PED,0,10,21,2,0,0,3,0,0,0,0,36,27.8%   58.3%   5.6%   0%   8.3%,1,1,2023,609
+PRI 331,Theory and methodology of educational work in primary school,PED,1,6,10,0,0,0,0,0,0,0,0,16,37.5%   62.5%   0%   0%   0%,1,1,2023,608
+PSY 109,Pedagogy,PED,1,17,31,0,0,0,2,0,0,0,0,50,34%   62%   0%   0%   4%,1,1,2023,556
+PSY 110,Educational Practicum (orientation),PED,1,50,0,0,0,0,1,0,0,0,0,51,98%   0%   0%   0%   2%,1,1,2023,556
+PSY 220,Professional oriented foreign language 1,PED,0,13,6,0,0,0,2,0,0,0,0,21,61.9%   28.6%   0%   0%   9.5%,0,1,2023,557
+PSY 221,Social pedagogical design,PED,1,11,7,0,0,0,1,0,0,0,0,19,57.9%   36.8%   0%   0%   5.3%,1,1,2023,530
+PSY 301,Cognitive psychology,PED,0,4,0,0,0,0,1,0,0,0,0,5,80%   0%   0%   0%   20%,1,1,2023,610
+PSY 314,Methods of teaching pedagogy,PED,1,4,0,0,0,0,0,0,0,0,0,4,100%   0%   0%   0%   0%,1,1,2023,556
+PSY 323,Practical training in career guidance,PED,1,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,0,1,2023,262
+PSY 325,Correctional psychology,PED,1,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,530
+PSY 329,Technologies of work of a practicing psychologist in an educational organization (practice),PED,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,611
+PSY 331,Basics of psychological-pedagogical diagnostics,PED,0,3,0,0,0,0,0,0,0,0,0,3,100%   0%   0%   0%   0%,1,1,2023,610
+PSY 427,Pedagogical legacy of the Great Steppe,PED,1,2,0,0,0,0,0,0,0,0,0,2,100%   0%   0%   0%   0%,0,1,2023,262
+SDS 202,Probability theory,ENG,0,1,4,15,19,1,0,0,0,0,1,41,2.4%   9.8%   36.6%   46.3%   2.4%,1,1,2023,443
+SDS 301,Modern Regression Analysis 1,ENG,1,21,0,0,0,0,0,0,0,0,0,21,100%   0%   0%   0%   0%,1,1,2023,171
+SPS 104,Social pedagogy,PED,1,9,9,2,0,0,3,0,0,0,0,23,39.1%   39.1%   8.7%   0%   13%,1,1,2023,530
+SPS 201,Physiology of school age,PED,0,1,0,1,0,0,0,0,0,0,0,2,50%   0%   50%   0%   0%,1,1,2023,113
+SPS 205,Professional oriented foreign language,PED,0,0,2,0,0,0,0,0,0,0,0,2,0%   100%   0%   0%   0%,0,1,2023,557
+SPS 209,Social psychology,PED,0,2,3,0,0,0,1,0,0,0,0,6,33.3%   50%   0%   0%   16.7%,1,1,2023,610
+SPS 312,Organization of work with regulatory documents,PED,0,1,4,0,0,0,1,0,0,0,0,6,16.7%   66.7%   0%   0%   16.7%,1,1,2023,609
+SPS 315,Special pedagogy,PED,0,2,3,0,0,0,1,0,0,0,0,6,33.3%   50%   0%   0%   16.7%,1,1,2023,609
+SPS 325,Technologies of work of a social teacher in an educational organization,PED,0,5,0,0,0,0,1,0,0,0,0,6,83.3%   0%   0%   0%   16.7%,1,1,2023,609
+SPS 327,Training practice,PED,0,5,0,0,0,0,1,0,0,0,0,6,83.3%   0%   0%   0%   16.7%,1,1,2023,609
+TFL 109,Academic Listening and Note-Taking,PED,0,0,14,43,24,18,13,0,0,0,4,116,0%   12.1%   37.1%   20.7%   26.7%,1,1,2023,276
+TFL 129,Reading and Writing 1,PED,0,84,155,84,39,16,14,0,0,0,5,397,21.2%   39%   21.2%   9.8%   7.6%,1,1,2023,612
+TFL 138,Pedagogy,PED,0,28,111,77,38,2,14,0,0,0,5,275,10.2%   40.4%   28%   13.8%   5.8%,1,1,2023,288
+TFL 144,Foreıgn Language (second) -1 (A1): Chinese,PED,0,36,20,9,1,4,3,0,0,0,2,75,48%   26.7%   12%   1.3%   9.3%,1,1,2023,281
+TFL 146,Foreıgn Language (second) -1 (A2-B1): Turkish,PED,1,17,29,14,3,0,1,0,0,0,0,64,26.6%   45.3%   21.9%   4.7%   1.6%,1,1,2023,213
+TFL 150,Foreıgn Language (second) -1 (A1): French,PED,1,10,39,9,3,0,4,0,0,0,1,66,15.2%   59.1%   13.6%   4.5%   6.1%,1,1,2023,613
+TFL 152,Foreıgn Language (second) -1 (A1): Korean,PED,0,46,35,19,7,0,2,0,0,0,3,112,41.1%   31.3%   17%   6.3%   1.8%,1,1,2023,492
+TFL 154,Foreıgn Language (second) -1 (A1): German,PED,0,10,18,13,2,1,2,0,0,0,0,46,21.7%   39.1%   28.3%   4.3%   6.5%,1,1,2023,285
+TFL 204,Second FL(3)- French (A2-B1),PED,0,5,38,7,0,2,3,0,0,0,0,55,9.1%   69.1%   12.7%   0%   9.1%,1,1,2023,99
+TFL 206,Second FL(3)- Chinese (A2-B1),PED,0,10,22,5,7,0,1,0,0,0,0,45,22.2%   48.9%   11.1%   15.6%   2.2%,1,1,2023,281
+TFL 207,Academic Writing (C1),PED,1,39,5,0,0,0,0,0,0,0,0,44,88.6%   11.4%   0%   0%   0%,0,1,2023,302
+TFL 207,Academic Writing (C1),PED,1,26,44,14,7,0,4,0,0,0,1,96,27.1%   45.8%   14.6%   7.3%   4.2%,1,1,2023,260
+TFL 207,Academic Writing (C1),PED,0,44,49,21,3,1,2,0,0,0,0,120,36.7%   40.8%   17.5%   2.5%   2.5%,0,1,2023,614
+TFL 207,Academic Writing (C1),PED,0,9,29,33,11,4,2,0,0,0,1,89,10.1%   32.6%   37.1%   12.4%   6.7%,0,1,2023,348
+TFL 208,Second FL(3)- Turkish (B1),PED,1,23,37,10,3,1,1,0,0,0,0,75,30.7%   49.3%   13.3%   4%   2.7%,1,1,2023,213
+TFL 214,Second FL(3)-Korean (A2-B1),PED,0,43,43,17,3,0,2,0,0,0,1,109,39.4%   39.4%   15.6%   2.8%   1.8%,1,1,2023,492
+TFL 215,Developmental Psychology,PED,0,105,74,10,1,0,8,0,0,0,0,198,53%   37.4%   5.1%   0.5%   4%,1,1,2023,289
+TFL 262,Second FL(3)- German (A2-B1),PED,0,10,26,21,3,0,2,0,0,0,1,63,15.9%   41.3%   33.3%   4.8%   3.2%,1,1,2023,296
+TFL 314,English for Specific Purposes (C1) - 1,PED,0,45,102,48,17,4,8,0,0,0,2,226,19.9%   45.1%   21.2%   7.5%   5.3%,0,1,2023,534
+TFL 333,Critical thinking strategies,PED,0,8,22,12,2,0,3,0,0,0,0,47,17%   46.8%   25.5%   4.3%   6.4%,1,1,2023,280
+TFL 333,Critical thinking strategies,PED,0,19,34,19,14,2,4,0,0,0,0,92,20.7%   37%   20.7%   15.2%   6.5%,1,1,2023,297
+TFL 333,Critical thinking strategies,PED,0,14,50,16,3,1,3,0,0,0,0,87,16.1%   57.5%   18.4%   3.4%   4.6%,1,1,2023,292
+TFL 359,Public Speaking (English;C1-C2),PED,0,52,79,32,7,0,7,0,0,0,4,181,28.7%   43.6%   17.7%   3.9%   3.9%,1,1,2023,269
+TFL 359,Public Speaking (English;C1-C2),PED,0,37,37,6,0,0,5,0,0,0,1,86,43%   43%   7%   0%   5.8%,1,1,2023,292
+TFL 367,Innovative Trends in Education,PED,0,15,53,22,2,1,2,0,0,0,1,96,15.6%   55.2%   22.9%   2.1%   3.1%,1,1,2023,494
+TFL 367,Innovative Trends in Education,PED,0,15,24,8,0,1,0,0,0,0,0,48,31.3%   50%   16.7%   0%   2.1%,1,1,2023,293
+TFL 367,Innovative Trends in Education,PED,0,0,7,9,11,2,5,0,0,0,3,37,0%   18.9%   24.3%   29.7%   18.9%,1,1,2023,276
+TFL 367,Innovative Trends in Education,PED,0,5,26,13,2,0,2,0,0,0,0,48,10.4%   54.2%   27.1%   4.2%   4.2%,1,1,2023,615
+TFL 371,Second FL(5)-Chinese (B1),PED,0,4,6,18,7,0,0,0,0,0,0,35,11.4%   17.1%   51.4%   20%   0%,1,1,2023,490
+TFL 373,Second Fl(5)-French (B1),PED,0,21,19,20,10,0,3,0,0,0,0,73,28.8%   26%   27.4%   13.7%   4.1%,1,1,2023,99
+TFL 375,Second FL(5)-Turkish (B1-B2),PED,1,17,17,10,5,0,2,0,0,0,0,51,33.3%   33.3%   19.6%   9.8%   3.9%,0,1,2023,203
+TFL 377,Second FL(5)-Korean (B1),PED,1,33,27,2,3,0,0,0,0,0,0,65,50.8%   41.5%   3.1%   4.6%   0%,0,1,2023,290
+TFL 379,Second FL(5)-German (B1),PED,0,9,20,16,4,0,1,0,0,0,0,50,18%   40%   32%   8%   2%,1,1,2023,285
+TFL 383,English Lexicology and Stylistics,PED,0,45,76,30,11,4,14,0,0,0,2,182,24.7%   41.8%   16.5%   6%   9.9%,0,1,2023,534
+TFL 438,Assessment in Foreign Language Teaching,PED,0,32,103,72,24,13,7,0,0,0,0,251,12.7%   41%   28.7%   9.6%   8%,0,1,2023,291
+TFL 439,Practice of English Language Teaching: Peer Teaching,PED,0,27,57,20,5,0,0,0,0,0,0,109,24.8%   52.3%   18.3%   4.6%   0%,0,1,2023,279
+TFL 439,Practice of English Language Teaching: Peer Teaching,PED,0,3,12,5,2,0,2,0,0,0,0,24,12.5%   50%   20.8%   8.3%   8.3%,1,1,2023,494
+TFL 439,Practice of English Language Teaching: Peer Teaching,PED,0,23,37,18,5,0,4,0,0,0,0,87,26.4%   42.5%   20.7%   5.7%   4.6%,0,1,2023,291
+TFL 439,Practice of English Language Teaching: Peer Teaching,PED,0,1,11,8,4,0,0,0,0,0,0,24,4.2%   45.8%   33.3%   16.7%   0%,1,1,2023,269
+TFL 448,Major field exam,PED,0,0,3,1,1,0,3,0,0,0,0,8,0%   37.5%   12.5%   12.5%   37.5%,1,1,2023,267
+TFL 451,Instructional Technologies and Materials Development,PED,0,22,61,35,21,7,5,0,0,0,0,151,14.6%   40.4%   23.2%   13.9%   7.9%,1,1,2023,298
+TFL 451,Instructional Technologies and Materials Development,PED,0,55,1,0,0,0,0,0,0,0,0,56,98.2%   1.8%   0%   0%   0%,0,1,2023,273
+TFL 451,Instructional Technologies and Materials Development,PED,0,2,7,8,7,9,3,0,0,0,0,36,5.6%   19.4%   22.2%   19.4%   33.3%,1,1,2023,535
+TRA 103,Foreign language (В1) ENGLISH - 1,PED,0,5,8,3,1,2,2,0,0,0,0,21,23.8%   38.1%   14.3%   4.8%   19%,1,1,2023,489
+TRA 103,Foreign language (В1) ENGLISH - 1,PED,0,90,151,59,15,6,6,0,0,0,0,327,27.5%   46.2%   18%   4.6%   3.7%,0,1,2023,576
+TRA 217,Major Foreign Language (B2): English in Intercultural Communication Contexts -1,PED,0,146,115,30,18,7,16,0,0,0,1,333,43.8%   34.5%   9%   5.4%   6.9%,0,1,2023,271
+TRA 250,Introduction to Translation,PED,0,13,56,50,22,6,9,0,0,0,1,157,8.3%   35.7%   31.8%   14%   9.6%,1,1,2023,616
+TRA 301,Practice of Literary Translation (Kazakh/ Russian/ English),PED,0,23,27,12,6,2,5,0,0,0,1,76,30.3%   35.5%   15.8%   7.9%   9.2%,0,1,2023,67
+TRA 301,Practice of Literary Translation (Kazakh/ Russian/ English),PED,0,24,21,4,1,1,1,0,0,0,0,52,46.2%   40.4%   7.7%   1.9%   3.8%,1,1,2023,287
+TRA 323,Consecutive interpreting 1,PED,0,40,43,25,7,6,11,0,0,0,0,132,30.3%   32.6%   18.9%   5.3%   12.9%,0,1,2023,306
+TRA 331,Techniques of Financial and Official Texts Translation (Kazakh/Russian/English),PED,1,55,41,13,3,4,5,0,0,0,2,123,44.7%   33.3%   10.6%   2.4%   7.3%,1,1,2023,59
+TRA 452,Simultaneous Interpreting 2,PED,0,2,7,9,2,1,1,0,0,0,0,22,9.1%   31.8%   40.9%   9.1%   9.1%,0,1,2023,306
+TRA 467,Research Methods 1,PED,0,9,10,1,1,0,2,0,0,0,0,23,39.1%   43.5%   4.3%   4.3%   8.7%,1,1,2023,287
